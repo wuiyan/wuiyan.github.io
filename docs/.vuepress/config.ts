@@ -30,8 +30,8 @@ export default defineUserConfig({
       }
     ],
     ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
-    ["meta", { name: "application-name", content: "Gungnir Theme" }],
-    ["meta", { name: "apple-mobile-web-app-title", content: "Gungnir Theme" }],
+    ["meta", { name: "application-name", content: "YILS's Blog" }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "YILS's Blog" }],
     [
       "meta",
       { name: "apple-mobile-web-app-status-bar-style", content: "black" }
@@ -49,12 +49,12 @@ export default defineUserConfig({
     "/": {
       lang: "en-US",
       title: "YILS's Blog",
-      description: "YILS 的自留地，技术，认知，被动收入"
+      description: "YILS's private plots, technology, cognition and passive income"
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "VuePress Theme Gungnir",
-      description: "VuePress 博客主题"
+      title: "YILS's Blog",
+      description: "YILS 的自留地，技术，认知，被动收入"
     }
   },
 
@@ -73,7 +73,7 @@ export default defineUserConfig({
     personalInfo: {
       name: "YILS's Blog",
       avatar: "/img/avatar.jpeg",
-      description: "YILS 的自留地，讨论技术，提升认知，构建被动收入",
+      description: "讨论技术，提升认知，构建被动收入",
       sns: {
         github: "YILS-LIN",
         // linkedin: "xiaohan-zou-55bba0160",
@@ -146,7 +146,7 @@ export default defineUserConfig({
        */
       "/": {
         // navbar
-        navbar: navbar.en,
+        navbar: navbar.zh,
         // sidebar
         sidebar: sidebar.en
       },
@@ -183,8 +183,8 @@ export default defineUserConfig({
       ga: "G-EE8M2S3MPB",
       ba: "10b7bc420625758a319d6b23aed4700f",
       rss: {
-        siteURL: "https://v2.vuepress-theme-gungnir.vercel.app",
-        copyright: "Renovamen 2018-2022"
+        siteURL: "https://yils.blog",
+        copyright: "YILS 2022-2032"
       },
       pwa: true,
       search: false // use @vuepress/plugin-docsearch instead

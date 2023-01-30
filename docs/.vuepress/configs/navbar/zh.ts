@@ -18,39 +18,49 @@ export const zh: NavbarConfig = [
     icon: "fa-satellite-dish"
   },
   {
-    text: "文档",
-    link: "/zh/docs/basic/intro.md",
-    icon: "ri-book-2-fill"
+    text: "关于",
+    link: "/about/",
+    icon: "fa-at"
   },
   {
-    text: "VuePress",
-    link: "https://v2.vuepress.vuejs.org/zh/",
-    icon: "ri-vuejs-line"
+    text: "RSS",
+    link: "/rss.xml",
+    icon: "ri-rss-fill"
   },
-  {
-    text: `v${version}`,
-    icon: "co-git",
-    children: [
-      {
-        text: "GitHub",
-        link: "https://github.com/Renovamen/vuepress-theme-gungnir",
-        icon: "ri-github-line"
-      },
-      {
-        text: "更新日志",
-        link: "https://github.com/Renovamen/vuepress-theme-gungnir/blob/main/CHANGELOG.md",
-        icon: "oi-git-compare"
-      },
-      {
-        text: "v2.x",
-        link: "/zh/docs/intro.md",
-        icon: "oi-rocket"
-      },
-      {
-        text: "v0.x",
-        link: "https://vuepress-theme-gungnir.vercel.app",
-        icon: "ri-sailboat-line"
-      }
-    ]
-  }
+  // {
+  //   text: "文档",
+  //   link: "/zh/docs/basic/intro.md",
+  //   icon: "ri-book-2-fill"
+  // },
+  // {
+  //   text: "VuePress",
+  //   link: "https://v2.vuepress.vuejs.org/zh/",
+  //   icon: "ri-vuejs-line"
+  // },
+  // {
+  //   text: `v${version}`,
+  //   icon: "co-git",
+  //   children: [
+  //     {
+  //       text: "GitHub",
+  //       link: "https://github.com/Renovamen/vuepress-theme-gungnir",
+  //       icon: "ri-github-line"
+  //     },
+  //     {
+  //       text: "更新日志",
+  //       link: "https://github.com/Renovamen/vuepress-theme-gungnir/blob/main/CHANGELOG.md",
+  //       icon: "oi-git-compare"
+  //     },
+  //     {
+  //       text: "v2.x",
+  //       link: "/zh/docs/intro.md",
+  //       icon: "oi-rocket"
+  //     },
+  //     {
+  //       text: "v0.x",
+  //       link: "https://vuepress-theme-gungnir.vercel.app",
+  //       icon: "ri-sailboat-line"
+  //     }
+  //   ]
+  // }
 ];
