@@ -47,8 +47,8 @@ $longer-time: $time * 2;
     $wider: 6px;
 
     position: absolute;
-    bottom: -math.div($wider, 2);
-    right: -math.div($wider, 2);
+    bottom: -(math.div($wider, 2));
+    right: -(math.div($wider, 2));
     width: $menu-btn-size + $wider;
     height: $menu-btn-size + $wider;
 
