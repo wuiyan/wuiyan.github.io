@@ -1,23 +1,23 @@
 <template>
-  <main class="page">
-    <slot name="top" />
+    <main class="page">
+        <slot name="top" />
 
-    <div class="theme-gungnir-content">
-      <slot name="content-top" />
+        <div class="theme-gungnir-content">
+            <slot name="content-top" />
 
-      <Content />
+            <Content />
 
-      <slot name="content-bottom" />
-    </div>
+            <slot name="content-bottom" />
+        </div>
 
-    <PageMeta />
+        <PageMeta />
 
-    <PageNav />
+        <PageNav />
 
-    <slot name="bottom" />
+        <slot name="bottom" />
 
-    <GungnirGiscus v-if="frontmatter.giscus !== false" :theme="giscusTheme" />
-  </main>
+        <!-- <GungnirGiscus v-if="frontmatter.giscus !== false" :theme="giscusTheme" /> -->
+    </main>
 </template>
 
 <script setup lang="ts">
@@ -33,8 +33,8 @@ const frontmatter = usePageFrontmatter<GungnirThemeNormalPageFrontmatter>();
 const { isDarkMode } = useDarkMode();
 
 const giscusTheme = computed(() =>
-  isDarkMode.value
-    ? themeLocale.value.giscusDarkTheme
-    : themeLocale.value.giscusLightTheme
+    isDarkMode.value
+        ? themeLocale.value.giscusDarkTheme
+        : themeLocale.value.giscusLightTheme
 );
 </script>

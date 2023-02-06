@@ -30,4 +30,6 @@ addIcons(
   FaAt
 );
 
-export default defineClientConfig({});
+export default defineClientConfig({
+
+});

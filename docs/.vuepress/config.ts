@@ -170,13 +170,13 @@ export default defineUserConfig({
       katex: true,
       mermaid: true,
       chartjs: true,
-      giscus: {
-        repo: "This-is-an-Apple/gitalk-comments",
-        repoId: "MDEwOlJlcG9zaXRvcnkyMTA1MjQyMTQ=",
-        category: "Announcements",
-        categoryId: "DIC_kwDODIxYNs4CAO1u",
-        lazyLoad: true
-      },
+      // giscus: {
+      //   repo: "This-is-an-Apple/gitalk-comments",
+      //   repoId: "MDEwOlJlcG9zaXRvcnkyMTA1MjQyMTQ=",
+      //   category: "Announcements",
+      //   categoryId: "DIC_kwDODIxYNs4CAO1u",
+      //   lazyLoad: true
+      // },
       mdPlus: {
         all: true
       },

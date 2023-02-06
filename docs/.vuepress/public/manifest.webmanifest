@@ -1,7 +1,7 @@
 {
-  "name": "Gungnir Theme",
-  "short_name": "Gungnir",
-  "description": "A blog theme for VuePress.",
+  "name": "YILS's Blog",
+  "short_name": "YILS's Blog",
+  "description": "讨论技术，提升认知，构建被动收入",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#2d3746",

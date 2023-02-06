@@ -24,7 +24,7 @@ export const zh: NavbarConfig = [
   },
   {
     text: "RSS",
-    link: "/rss.xml",
+    link: "https://yils.blog/rss.xml",
     icon: "ri-rss-fill"
   },
   // {
