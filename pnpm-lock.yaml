@@ -2,12 +2,14 @@ lockfileVersion: 5.4
 
 specifiers:
   '@vuepress/client': 2.0.0-beta.61
+  cross-env: ^7.0.3
   vue: ^3.2.47
   vuepress: 2.0.0-beta.61
   vuepress-theme-hope: 2.0.0-beta.202
 
 devDependencies:
   '@vuepress/client': registry.npmmirror.com/@vuepress/client/2.0.0-beta.61
+  cross-env: registry.npmmirror.com/cross-env/7.0.3
   vue: registry.npmmirror.com/vue/3.2.47
   vuepress: registry.npmmirror.com/vuepress/2.0.0-beta.61_zcwlgd45apez724duilctoxt4u
   vuepress-theme-hope: registry.npmmirror.com/vuepress-theme-hope/2.0.0-beta.202_vuepress@2.0.0-beta.61
@@ -3415,6 +3417,16 @@ packages:
     version: 2.2.0
     dependencies:
       layout-base: registry.npmmirror.com/layout-base/2.0.1
+    dev: true
+
+  registry.npmmirror.com/cross-env/7.0.3:
+    resolution: {integrity: sha512-+/HKd6EgcQCJGh2PSjZuUitQBQynKor4wrFbRg4DtAgS1aWO+gU52xpH7M9ScGgXSYmAVS9bIJ8EzuaGw0oNAw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/cross-env/-/cross-env-7.0.3.tgz}
+    name: cross-env
+    version: 7.0.3
+    engines: {node: '>=10.14', npm: '>=6', yarn: '>=1'}
+    hasBin: true
+    dependencies:
+      cross-spawn: registry.npmmirror.com/cross-spawn/7.0.3
     dev: true
 
   registry.npmmirror.com/cross-spawn/7.0.3:
