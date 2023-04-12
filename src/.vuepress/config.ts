@@ -5,15 +5,15 @@ export default defineUserConfig({
   base: "/",
 
   locales: {
+    // "/en/": {
+    //   lang: "en-US",
+    //   title: "Blog Demo",
+    //   description: "A blog demo for vuepress-theme-hope",
+    // },
     "/": {
-      lang: "en-US",
-      title: "Blog Demo",
-      description: "A blog demo for vuepress-theme-hope",
-    },
-    "/zh/": {
       lang: "zh-CN",
-      title: "博客演示",
-      description: "vuepress-theme-hope 的博客演示",
+      title: "YILS's Blog",
+      description: "YILS 的自留地，学习技术，提升认知，构建被动收入",
     },
   },
 
