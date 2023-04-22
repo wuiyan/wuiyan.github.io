@@ -1,1 +1,14 @@
 // place your custom styles here
+#article-list {
+    .article-item {
+        .article {
+            .article-cover {
+                transition: all .5s;
+
+                // &:hover {
+                //     transform: scale(1.1);
+                // }
+            }
+        }
+    }
+}

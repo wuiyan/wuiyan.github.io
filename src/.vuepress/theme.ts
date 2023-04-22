@@ -60,6 +60,8 @@ export default hopeTheme({
 
       footer: "YILS's Blog",
 
+      copyright: "Copyright © 2022-present YILS",
+
       displayFooter: true,
 
       blog: {
