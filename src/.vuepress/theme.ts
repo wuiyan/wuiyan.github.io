@@ -15,7 +15,7 @@ export default hopeTheme({
 
   repo: "YILS-LIN/YILS.BLOG",
 
-  docsDir: "docs",
+  docsDir: "src",
 
   blog: {
     medias: {
