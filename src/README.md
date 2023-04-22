@@ -3,11 +3,11 @@ home: true
 layout: BlogHome
 # icon: home
 title: 主页
-heroImage: /logo.svg
+heroImage: /logo.png
 heroText: YILS's Blog
 heroFullScreen: true
-# bgImage: /assets/images/bg.jpg
-tagline: YILS 的自留地
+bgImage: /assets/images/bg.jpg
+tagline: 一个不知道该写什么的人
 projects:
   # - icon: project
   #   name: 项目名称
