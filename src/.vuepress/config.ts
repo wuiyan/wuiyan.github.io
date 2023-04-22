@@ -12,8 +12,8 @@ export default defineUserConfig({
     // },
     "/": {
       lang: "zh-CN",
-      title: "YILS's Blog",
-      description: "YILS 的自留地，学习技术，提升认知，构建被动收入",
+      title: "YILS 的自留地",
+      description: "学习技术，提升认知，构建被动收入",
     },
   },
 
