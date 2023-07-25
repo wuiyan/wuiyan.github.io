@@ -7,7 +7,7 @@ heroImage: /logo.png
 heroText: YILS's Blog
 heroFullScreen: true
 bgImage: /assets/images/bg.jpg
-tagline: 一个不知道该写什么的人
+tagline: 先看Notion吧，暂时没空整理
 projects:
   # - icon: vue
   #   name: 代码笔记

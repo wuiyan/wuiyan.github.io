@@ -12,7 +12,7 @@ export default defineUserConfig({
     // },
     "/": {
       lang: "zh-CN",
-      title: "YILS 的自留地",
+      title: "YILS的博客",
       description: "学习技术，提升认知，构建被动收入",
     },
   },
