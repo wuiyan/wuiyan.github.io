@@ -12,11 +12,17 @@ For VuePress-Hope
 ## 安装
 
 ```bash
-pnpm install
+npm install
 ```
 
 ## 运行
 
 ```bash
-pnpm docs:dev
+npm docs:dev
+```
+
+## 打包
+
+```bash
+npm docs:build
 ```

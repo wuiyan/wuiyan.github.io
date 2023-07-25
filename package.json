@@ -8,7 +8,7 @@
     "docs:build": "cross-env NODE_OPTIONS=--max_old_space_size=8192 vuepress build src",
     "docs:clean-dev": "vuepress dev src --clean-cache",
     "docs:dev": "vuepress dev src",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
     "@vuepress/client": "2.0.0-beta.61",
