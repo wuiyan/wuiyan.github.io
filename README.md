@@ -9,6 +9,10 @@ For VuePress-Hope
 
 使用 Algolia 实现全文检索
 
+## 下载
+
+将此仓库下载到本地目录中
+
 ## 安装
 
 ```bash
@@ -18,11 +22,11 @@ npm install
 ## 运行
 
 ```bash
-npm docs:dev
+npm run docs:dev
 ```
 
 ## 打包
 
 ```bash
-npm docs:build
+npm run docs:build
 ```
