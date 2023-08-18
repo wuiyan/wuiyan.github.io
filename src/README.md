@@ -4,15 +4,15 @@ layout: BlogHome
 # icon: home
 title: 主页
 heroImage: /logo.png
-heroText: YILS's Blog
+heroText: WuYan's Blog
 heroFullScreen: true
-bgImage: /assets/images/bg.jpg
-tagline: 畏惧错误就是毁灭进步
+bgImage: /assets/images/index.jpg
+tagline: 观光阴如流水飞逝，欲伸手撷一朵流光
 projects:
-  - icon: vue
-    name: 开发笔记
-    desc: 总结开发经验，不仅前端
-    link: https://yils-lin.notion.site/054d9c226bb14d4088d2295a9bbec46e
+  - icon: java
+    name: Java开发笔记
+    desc: 记录后端开发时光
+    link: https://wuyan-note.notion.site/wuyan-note/Java-78ea6d73dfcc4c9881e57ea318fc97fb
     
   - icon: tag
     name: 博客标签
@@ -22,12 +22,12 @@ projects:
   - icon: github
     name: Github
     desc: 我的 Github 主页
-    link: https://github.com/yils-lin
+    link: https://github.com/wuiyan
 
   - icon: link
-    name: 无言的技术博客
+    name: YILS的技术博客
     desc: 友情链接
-    link: https://wuiyan.github.io/
+    link: https://yils.blog/
 # footer: YILS's Blog
 ---
 

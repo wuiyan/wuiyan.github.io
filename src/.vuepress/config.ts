@@ -12,8 +12,8 @@ export default defineUserConfig({
     // },
     "/": {
       lang: "zh-CN",
-      title: "YILS的博客",
-      description: "学习技术，提升认知，构建被动收入",
+      title: "WUYAN的博客",
+      description:"众里寻他千百度，蓦然回首，那人却在灯火阑珊处",
     },
   },
 

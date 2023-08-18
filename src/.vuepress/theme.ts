@@ -3,25 +3,25 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://yils.blog/",
+  hostname: "https://wuiyan.github.io/",
   author: {
-    name: "YILS",
-    url: "https://yils.blog/",
+    name: "WUYAN",
+    url: "https://wuiyan.github.io/",
   },
 
   iconAssets: "iconfont",
 
   logo: "/logo.png",
 
-  repo: "YILS-LIN/YILS.BLOG",
+  repo: "wuiyan/wuiyan.github.io",
 
   docsDir: "src",
 
   blog: {
     medias: {
-      Email: "mailto:yils_lin@163.com",
-      GitHub: "https://github.com/YILS-LIN",
-      Rss: "https://yils.blog/rss.xml",
+      Email: "jia2997592709@163.com",
+      GitHub: "https://github.com/wuiyan",
+      Rss: "https://wuiyan.github.io/rss.xml",
       // YILS: ["https://yils.blog/", "/logo.svg"],
     },
   },
@@ -58,14 +58,14 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "YILS's Blog",
+      footer: "WUYAN's Blog",
 
-      copyright: "Copyright © 2022-present YILS",
+      copyright: "Copyright © 2022-present WUYAN",
 
       displayFooter: true,
 
       blog: {
-        description: "学习技术，提升认知，构建被动收入",
+        description: "众里寻他千百度，蓦然回首，那人却在灯火阑珊处",
         intro: "/intro.html",
       },
 
