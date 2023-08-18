@@ -25,7 +25,7 @@ servlet 是用于处理请求并动态生成响应内容返回给客户端的一
   - 次级实现类或接口：GenericServlet 实现类、ServletRequest 接口、ServletResponse 接口。
     - Http请求处理：HttpServlet 实现类、HttpServletRequest 接口、HttpServletResponse 接口
 
-![关系图](/img/Servlet/1.png)
+![关系图](/assets/images/Servlet/1.png)
 
 
 
