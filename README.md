@@ -1,10 +1,9 @@
-# YILS 的博客
+# WuYan 的博客
 
 For VuePress-Hope
 
 ## 简介
-
-[YILS.BLOG](https://yils.blog/)
+[wuyan’sBlog](https://wuiyan.github.io/)
 技术栈基于 TypeScript+Vue3+Vite4+VuePress2
 
 使用 Algolia 实现全文检索
