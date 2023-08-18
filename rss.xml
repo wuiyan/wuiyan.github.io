@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://yils.blog/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://wuiyan.github.io/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://yils.blog/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>YILS的博客</title>
-    <link>https://yils.blog/</link>
-    <description>学习技术，提升认知，构建被动收入</description>
+    <atom:link href="https://wuiyan.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>WUYAN的博客</title>
+    <link>https://wuiyan.github.io/</link>
+    <description>众里寻他千百度，蓦然回首，那人却在灯火阑珊处</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 18 Aug 2023 10:55:05 GMT</pubDate>
-    <lastBuildDate>Fri, 18 Aug 2023 10:55:05 GMT</lastBuildDate>
+    <pubDate>Fri, 18 Aug 2023 11:42:35 GMT</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2023 11:42:35 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <copyright>Copyright © 2022-present YILS</copyright>
+    <copyright>Copyright © 2022-present WUYAN</copyright>
     <category>随笔</category>
     <category>转载</category>
     <category>技术</category>
@@ -21,9 +21,9 @@
     <category>博客搭建</category>
     <item>
       <title>博客的第一篇文章</title>
-      <link>https://yils.blog/posts/2023-04-12.html</link>
-      <guid>https://yils.blog/posts/2023-04-12.html</guid>
-      <source url="https://yils.blog/rss.xml">博客的第一篇文章</source>
+      <link>https://wuiyan.github.io/posts/2023-04-12.html</link>
+      <guid>https://wuiyan.github.io/posts/2023-04-12.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">博客的第一篇文章</source>
       <description>博客的第一篇文章 欢迎来到我的博客 🎉 我是YILS，一个前端开发者。从小我对编程和技术有浓厚的兴趣，也喜欢分享我的经验和知识。这个博客将是我与读者们分享我的想法、经验和技术的平台。我相信，通过这个博客，我们可以一起学习和成长。 我为什么要开始写博客呢？ 其实，这是因为我一直希望可以通过写作来记录和分享自己的经验和知识。我相信，通过写博客，我不仅可以分享我的观点，也可以帮助其他人更好地理解技术和编程。同时，这也是我提高自己技术水平的一个方法，因为我会不断地学习和研究，以便能够更好地分享我的经验和知识。</description>
       <category>随笔</category>
       <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
@@ -37,13 +37,13 @@
 <p>最后，我也想告诉读者们，这个博客是我个人的一个小小的窗口。<strong>我会不断地更新我的文章和内容，希望能够与读者们共同成长和进步</strong>。如果你对我的博客有什么建议或意见，欢迎随时与我联系，我会非常乐意听取并改进。</p>
 <p><strong>感谢支持和关注，期待与你们的互动和交流！😄</strong></p>
 ]]></content:encoded>
-      <enclosure url="https://yils.blog/assets/images/cover0.jpg" type="image/jpeg"/>
+      <enclosure url="https://wuiyan.github.io/assets/images/cover0.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>提问的智慧</title>
-      <link>https://yils.blog/posts/2023-08-18-01.html</link>
-      <guid>https://yils.blog/posts/2023-08-18-01.html</guid>
-      <source url="https://yils.blog/rss.xml">提问的智慧</source>
+      <link>https://wuiyan.github.io/posts/2023-08-18-01.html</link>
+      <guid>https://wuiyan.github.io/posts/2023-08-18-01.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">提问的智慧</source>
       <description>原文版本历史 (https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/history.md) 目录 声明 (#%E5%A3%B0%E6%98%8E); 简介 (#%E7%AE%80%E4%BB%8B); 在提问之前 (#%E5%9C%A8%E6%8F%90...</description>
       <category>转载</category>
       <pubDate>Fri, 18 Aug 2023 10:00:00 GMT</pubDate>
@@ -496,9 +496,9 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>如何做出伟大工作</title>
-      <link>https://yils.blog/posts/2023-08-18-02.html</link>
-      <guid>https://yils.blog/posts/2023-08-18-02.html</guid>
-      <source url="https://yils.blog/rss.xml">如何做出伟大工作</source>
+      <link>https://wuiyan.github.io/posts/2023-08-18-02.html</link>
+      <guid>https://wuiyan.github.io/posts/2023-08-18-02.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">如何做出伟大工作</source>
       <description>如何做出伟大工作 英文原文 How to Do Great Work DISCLAMER 原文中可以整理为列表的内容我都进行了整理，而没有遵循原文。 把注解融入进了正文。 一些原文有被删除。 自行划分了段落，并添加了标题。</description>
       <category>转载</category>
       <pubDate>Fri, 18 Aug 2023 11:00:00 GMT</pubDate>
@@ -819,9 +819,9 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>如何使用GithubAction自动部署VuePress到GithubPages</title>
-      <link>https://yils.blog/posts/2023-08-18-03.html</link>
-      <guid>https://yils.blog/posts/2023-08-18-03.html</guid>
-      <source url="https://yils.blog/rss.xml">如何使用GithubAction自动部署VuePress到GithubPages</source>
+      <link>https://wuiyan.github.io/posts/2023-08-18-03.html</link>
+      <guid>https://wuiyan.github.io/posts/2023-08-18-03.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">如何使用GithubAction自动部署VuePress到GithubPages</source>
       <description>如何使用GithubAction自动部署VuePress到GithubPages 提示 仓库名称必须严格按照 [你的GitHub用户名].github.io 格式来 否则会将网站部署到以仓库名称命名的子路径上 打开 repo 控制权限 依次进入仓库的 Settings=&amp;gt;Action=&amp;gt;General 打开以下两个权限：</description>
       <category>技术</category>
       <pubDate>Fri, 18 Aug 2023 15:00:00 GMT</pubDate>
@@ -862,9 +862,9 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>防火墙常用命令</title>
-      <link>https://yils.blog/posts/Centos7%E9%98%B2%E7%81%AB%E5%A2%99%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.html</link>
-      <guid>https://yils.blog/posts/Centos7%E9%98%B2%E7%81%AB%E5%A2%99%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.html</guid>
-      <source url="https://yils.blog/rss.xml">防火墙常用命令</source>
+      <link>https://wuiyan.github.io/posts/Centos7%E9%98%B2%E7%81%AB%E5%A2%99%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.html</link>
+      <guid>https://wuiyan.github.io/posts/Centos7%E9%98%B2%E7%81%AB%E5%A2%99%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">防火墙常用命令</source>
       <description>启动|关闭|重启防火墙 systemctl status firewalld.service # 查看防火墙状态 systemctl start firewalld.service # 启动防火墙 systemctl stop firewalld.service # 关闭防火墙</description>
       <category>Linux</category>
       <pubDate>Wed, 15 Mar 2023 22:54:45 GMT</pubDate>
@@ -875,12 +875,12 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>JUL日志框架</title>
-      <link>https://yils.blog/posts/JUL%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
-      <guid>https://yils.blog/posts/JUL%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
-      <source url="https://yils.blog/rss.xml">JUL日志框架</source>
+      <link>https://wuiyan.github.io/posts/JUL%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
+      <guid>https://wuiyan.github.io/posts/JUL%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">JUL日志框架</source>
       <description>一、JUL框架介绍 JUL 全称 : Java util logging ，Java原生的日志框架，主要用于小型项目，使用方便。 作用：可以按照不同的层次分级去显示信息，将程序运行中的信息更加规范化的输出。 二、JUL组成介绍 Logger：也被称作记录器，是日志实现的基础。 Handler|Appenders：也被称作处理器，一个 Logger 可同时存在多个处理器，以其具体实现类决定日志的输出位置是控制台、文件还是网络上的其他日志服务器。 Layouts：也被称为Formatters，它负责对日志事件中的数据进行转换和格式化，它决定了日志记录的最终显示形式。 Level：日志输出级别，Logger 和 Handeler 都有一个 Level 级别，如两者出现冲突时，以级别高的等级为准。 Filters：过滤器，可以自主过滤掉不需要的日志信息，可以在 Logger 和 Handeler 上分别设置。</description>
       <category>JavaWeb</category>
-      <pubDate>Fri, 18 Aug 2023 10:53:10 GMT</pubDate>
+      <pubDate>Fri, 18 Aug 2023 11:41:02 GMT</pubDate>
       <content:encoded><![CDATA[<h4> 一、JUL框架介绍</h4>
 <p>JUL 全称 : Java util logging ，Java原生的日志框架，主要用于小型项目，使用方便。</p>
 <p>作用：可以按照不同的层次分级去显示信息，将程序运行中的信息更加规范化的输出。</p>
@@ -939,16 +939,16 @@ I'll be glad to translate responses, if you only use one or the other.</p>
 </tbody>
 </table>
 ]]></content:encoded>
-      <enclosure url="https://yils.blog/assets/images/JUL/流程图.png" type="image/png"/>
+      <enclosure url="https://wuiyan.github.io/assets/images/JUL/流程图.png" type="image/png"/>
     </item>
     <item>
       <title>maven常用依赖</title>
-      <link>https://yils.blog/posts/Java%E7%9A%84maven%E5%B8%B8%E7%94%A8%E4%BE%9D%E8%B5%96.html</link>
-      <guid>https://yils.blog/posts/Java%E7%9A%84maven%E5%B8%B8%E7%94%A8%E4%BE%9D%E8%B5%96.html</guid>
-      <source url="https://yils.blog/rss.xml">maven常用依赖</source>
+      <link>https://wuiyan.github.io/posts/Java%E7%9A%84maven%E5%B8%B8%E7%94%A8%E4%BE%9D%E8%B5%96.html</link>
+      <guid>https://wuiyan.github.io/posts/Java%E7%9A%84maven%E5%B8%B8%E7%94%A8%E4%BE%9D%E8%B5%96.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">maven常用依赖</source>
       <description>记录一些常用的maven依赖坐标 1、mybatis 框架 &amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.mybatis&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;mybatis&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.5.13&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt;</description>
       <category>JavaWeb</category>
-      <pubDate>Fri, 18 Aug 2023 10:53:10 GMT</pubDate>
+      <pubDate>Fri, 18 Aug 2023 11:41:02 GMT</pubDate>
       <content:encoded><![CDATA[<p>记录一些常用的maven依赖坐标</p>
 <h5> 1、mybatis 框架</h5>
 <div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h5> 2、mysql 连接驱动</h5>
@@ -961,12 +961,12 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>Junit单元测试</title>
-      <link>https://yils.blog/posts/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</link>
-      <guid>https://yils.blog/posts/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</guid>
-      <source url="https://yils.blog/rss.xml">Junit单元测试</source>
+      <link>https://wuiyan.github.io/posts/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</link>
+      <guid>https://wuiyan.github.io/posts/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">Junit单元测试</source>
       <description>需要先导入Junit依赖才可以使用。 @TEST 注解 Junit最重要的一个注解，在方法上添加上@Test注解后，就可以单独执行这个方法，可以方便的进行测试。 注意事项： 此方法应该是public类型 此方法的返回值应为 void 此方法没有参数 此方法不是静态方法 @Before 注解 使用此注解标记的方法，会在测试方法前执行，且默认每个测试方法执行前都会执行一次此方法。 @After 注解</description>
       <category>JavaWeb</category>
-      <pubDate>Fri, 18 Aug 2023 10:53:10 GMT</pubDate>
+      <pubDate>Fri, 18 Aug 2023 11:41:02 GMT</pubDate>
       <content:encoded><![CDATA[<p>需要先导入Junit依赖才可以使用。</p>
 <h5> @TEST 注解</h5>
 <p>Junit最重要的一个注解，在方法上添加上@Test注解后，就可以单独执行这个方法，可以方便的进行测试。</p>
@@ -988,9 +988,9 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>LomBok-小辣椒插件学习笔记</title>
-      <link>https://yils.blog/posts/LomBok-%E5%B0%8F%E8%BE%A3%E6%A4%92%E6%8F%92%E4%BB%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
-      <guid>https://yils.blog/posts/LomBok-%E5%B0%8F%E8%BE%A3%E6%A4%92%E6%8F%92%E4%BB%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
-      <source url="https://yils.blog/rss.xml">LomBok-小辣椒插件学习笔记</source>
+      <link>https://wuiyan.github.io/posts/LomBok-%E5%B0%8F%E8%BE%A3%E6%A4%92%E6%8F%92%E4%BB%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
+      <guid>https://wuiyan.github.io/posts/LomBok-%E5%B0%8F%E8%BE%A3%E6%A4%92%E6%8F%92%E4%BB%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">LomBok-小辣椒插件学习笔记</source>
       <description>一、LomBok插件概述 LomBok插件是一款插件化注解API，可以在Java程序编译时根据注解为程序添加一些必需的通用代码，如常用的Getter、Setter、有参和无参构造方法等。 使用这款插件可以在很大程度上简化程序员所需要书写的代码量，但也有可能会带来一些意想不到的小问题，使程序的可读性变差。 二、LomBok插件配置方法 1、导入依赖包，可以通过maven或者手动导入的方式完成。 2、在IDEA中安装LomBok插件(在IDEA的新版本中默认是绑定安装的) 插件的作用：在java文件编译之后的class文件中确实会包含get、set方法，但在书写源码时是没有这些方法的定义的，IDEA会认为这是错误，所以这个时候就需要一个lombok插件来解决问题。</description>
       <category>JavaWeb</category>
       <pubDate>Thu, 16 Mar 2023 22:54:45 GMT</pubDate>
@@ -1094,9 +1094,9 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>MySQL数据库学习笔记</title>
-      <link>https://yils.blog/posts/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
-      <guid>https://yils.blog/posts/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
-      <source url="https://yils.blog/rss.xml">MySQL数据库学习笔记</source>
+      <link>https://wuiyan.github.io/posts/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
+      <guid>https://wuiyan.github.io/posts/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">MySQL数据库学习笔记</source>
       <description>一、数据库简介 MySQL数据库是一款关系型数据库管理系统，主要用于中小规模的数据的存储和处理，是现在相当流行的一款数据库类型。 关系型数据库是采用了关系模型来组织数据的数据库，实体之间的关系有一对一、一对多、多对多三种。 二、数据库的三大范式 范式：数据库设计时需要遵循一定的种规则，在关系型数据库中，这种规则就被称为范式。 1、第一范式(1NF)： 基本数据项不可再分，也就是属性已经是最小的了，不能再继续向下划分。 2、第二范式(2NF)： 满足第一范式的前提下，要有一个主键且其他属性要完全依赖于主键。</description>
       <category>JavaWeb</category>
       <pubDate>Wed, 15 Mar 2023 22:54:45 GMT</pubDate>
@@ -1282,12 +1282,12 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>SSM框架使用教程</title>
-      <link>https://yils.blog/posts/SSM%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html</link>
-      <guid>https://yils.blog/posts/SSM%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html</guid>
-      <source url="https://yils.blog/rss.xml">SSM框架使用教程</source>
+      <link>https://wuiyan.github.io/posts/SSM%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html</link>
+      <guid>https://wuiyan.github.io/posts/SSM%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">SSM框架使用教程</source>
       <description>SSM框架使用教程 通过注解配置spring框架 1、添加spring的坐标依赖 &amp;lt;!--spring 框架依赖--&amp;gt; &amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.springframework&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;spring-context&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;5.3.19&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt;</description>
       <category>SSM框架</category>
-      <pubDate>Fri, 18 Aug 2023 10:53:10 GMT</pubDate>
+      <pubDate>Fri, 18 Aug 2023 11:41:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> SSM框架使用教程</h2>
 <h3> 通过注解配置spring框架</h3>
 <h5> 1、添加spring的坐标依赖</h5>
@@ -1357,12 +1357,12 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>Servlet 体系结构概述</title>
-      <link>https://yils.blog/posts/Servlet%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.html</link>
-      <guid>https://yils.blog/posts/Servlet%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.html</guid>
-      <source url="https://yils.blog/rss.xml">Servlet 体系结构概述</source>
+      <link>https://wuiyan.github.io/posts/Servlet%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.html</link>
+      <guid>https://wuiyan.github.io/posts/Servlet%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">Servlet 体系结构概述</source>
       <description>Servlet 体系结构概述 1、servlet 的概念： servlet 是用于处理请求并动态生成响应内容返回给客户端的一种接口规范，只是定义了接口，并没有去实现，有些类似于JDBC的样子，它也有许多不同的实现类。 2、体系结构 顶级接口：Servelt 接口	ServeltConfig 接口 继承自 Servelt 的接口和实现类： 顶级父接口：Servlet。 次级实现类或接口：GenericServlet 实现类、ServletRequest 接口、ServletResponse 接口。 Http请求处理：HttpServlet 实现类、HttpServletRequest 接口、HttpServletResponse 接口</description>
       <category>JavaWeb</category>
-      <pubDate>Fri, 18 Aug 2023 10:53:10 GMT</pubDate>
+      <pubDate>Fri, 18 Aug 2023 11:41:02 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Servlet 体系结构概述</h3>
 <h5> 1、servlet 的概念：</h5>
 <p>servlet 是用于处理请求并动态生成响应内容返回给客户端的一种接口规范，只是定义了接口，并没有去实现，有些类似于JDBC的样子，它也有许多不同的实现类。</p>
@@ -1383,16 +1383,16 @@ I'll be glad to translate responses, if you only use one or the other.</p>
 <figure><img src="/assets/images/Servlet/1.png" alt="关系图" tabindex="0" loading="lazy"><figcaption>关系图</figcaption></figure>
 <p>一般处理请求比较常用的是带Http请求的类，对于Http相关的请求支持和方法都比较全面，推荐使用。</p>
 ]]></content:encoded>
-      <enclosure url="https://yils.blog/assets/images/Servlet/1.png" type="image/png"/>
+      <enclosure url="https://wuiyan.github.io/assets/images/Servlet/1.png" type="image/png"/>
     </item>
     <item>
       <title>关于Java中注解的使用</title>
-      <link>https://yils.blog/posts/%E5%85%B3%E4%BA%8EJava%E4%B8%AD%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%BD%BF%E7%94%A8.html</link>
-      <guid>https://yils.blog/posts/%E5%85%B3%E4%BA%8EJava%E4%B8%AD%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%BD%BF%E7%94%A8.html</guid>
-      <source url="https://yils.blog/rss.xml">关于Java中注解的使用</source>
+      <link>https://wuiyan.github.io/posts/%E5%85%B3%E4%BA%8EJava%E4%B8%AD%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%BD%BF%E7%94%A8.html</link>
+      <guid>https://wuiyan.github.io/posts/%E5%85%B3%E4%BA%8EJava%E4%B8%AD%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%BD%BF%E7%94%A8.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">关于Java中注解的使用</source>
       <description>一、注解的概述 注解(Annotation)，也叫元数据，是一种代码级别的说明，可以在程序中设定标记，这些标记可以用于检查代码、生成文档、使用反射等。 简单来说,注解是一种将meta标记(meta-tag)与程序元素关联的机制,允许编译器(compiler)或JVM从有注解的元素提取程序行为,必要时生成相互依赖的代码。 注解可以在包、类、方法、字段、局部变量、方法参数等几乎所有的东西前面声明，声明方法是 ‘@注解名’ 。后面还可添加参数。 1.1、注解的种类 注解分为两种，一种是预设注解，由Java原生提供的注解类型，另一种是元注解，用来定义注解的注解，常常用来自定义其他注解</description>
       <category>JavaSE</category>
-      <pubDate>Fri, 18 Aug 2023 10:53:10 GMT</pubDate>
+      <pubDate>Fri, 18 Aug 2023 11:41:02 GMT</pubDate>
       <content:encoded><![CDATA[<h4> 一、注解的概述</h4>
 <p>注解(Annotation)，也叫元数据，是一种代码级别的说明，可以在程序中设定标记，这些标记可以用于检查代码、生成文档、使用反射等。</p>
 <p>简单来说,注解是一种将meta标记(meta-tag)与程序元素关联的机制,允许编译器(compiler)或JVM从有注解的元素提取程序行为,必要时生成相互依赖的代码。</p>
@@ -1445,12 +1445,12 @@ I'll be glad to translate responses, if you only use one or the other.</p>
     </item>
     <item>
       <title>基于Hexo框架+GitHub的个人博客搭建</title>
-      <link>https://yils.blog/posts/%E5%9F%BA%E4%BA%8EHexo%E6%A1%86%E6%9E%B6_GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.html</link>
-      <guid>https://yils.blog/posts/%E5%9F%BA%E4%BA%8EHexo%E6%A1%86%E6%9E%B6_GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.html</guid>
-      <source url="https://yils.blog/rss.xml">基于Hexo框架+GitHub的个人博客搭建</source>
+      <link>https://wuiyan.github.io/posts/%E5%9F%BA%E4%BA%8EHexo%E6%A1%86%E6%9E%B6_GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.html</link>
+      <guid>https://wuiyan.github.io/posts/%E5%9F%BA%E4%BA%8EHexo%E6%A1%86%E6%9E%B6_GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">基于Hexo框架+GitHub的个人博客搭建</source>
       <description>一、准备工作 1、注册GitHub账号 GitHub官网：https://github.com/ 邮箱：163邮箱可以，QQ邮箱不确定，可自行测试。 可使用QQ邮箱。 注册完成后需要注意几点：1、记住用户名，2、记住密码，3、记住注册邮箱。 作用：用于为博客的远程部署提供域名和静态网页访问功能等。 2、安装node.js</description>
       <category>博客搭建</category>
-      <pubDate>Fri, 18 Aug 2023 10:53:10 GMT</pubDate>
+      <pubDate>Fri, 18 Aug 2023 11:41:02 GMT</pubDate>
       <content:encoded><![CDATA[<h3> 一、准备工作</h3>
 <h5> 1、注册GitHub账号</h5>
 <p>GitHub官网：<a href="https://github.com/" target="_blank" rel="noopener noreferrer">https://github.com/</a></p>
