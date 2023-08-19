@@ -89,10 +89,10 @@ export default hopeTheme({
       }
     },
 
-    comment: {
+    /* comment: {
       provider: "Waline",
       serverURL: "https://comment.yils.blog/",
-    },
+    }, */
 
     feed: {
       atom: true,
