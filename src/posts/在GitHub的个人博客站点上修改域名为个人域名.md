@@ -1,6 +1,6 @@
 ---
 title: 在GitHub的个人博客站点上修改域名为个人域名
-date: 2023-9-21 
+date: 2023-9-21
 categories:
 	- 博客搭建
 tags:
@@ -22,8 +22,8 @@ tags:
     
 3. 在GitHub的网站部署仓库中，打开Settings，找到Pages选项，在Custom domain 中按照在域名管理系统中的指向设置自定义域名即可。
    
-    ![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled%201.png)
+    ![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled1.png)
     
     ---
     
-    ![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled%202.png)
+    ![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled2.png)
