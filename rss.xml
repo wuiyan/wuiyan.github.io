@@ -6,8 +6,8 @@
     <link>https://wuiyan.github.io/</link>
     <description>众里寻他千百度，蓦然回首，那人却在灯火阑珊处</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 Sep 2023 12:15:40 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Sep 2023 12:15:40 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Sep 2023 12:41:19 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Sep 2023 12:41:19 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2022-present WUYAN</copyright>
@@ -80,7 +80,7 @@
       <source url="https://wuiyan.github.io/rss.xml">JUL日志框架</source>
       <description>一、JUL框架介绍 JUL 全称 : Java util logging ，Java原生的日志框架，主要用于小型项目，使用方便。 作用：可以按照不同的层次分级去显示信息，将程序运行中的信息更加规范化的输出。 二、JUL组成介绍 Logger：也被称作记录器，是日志实现的基础。 Handler|Appenders：也被称作处理器，一个 Logger 可同时存在多个处理器，以其具体实现类决定日志的输出位置是控制台、文件还是网络上的其他日志服务器。 Layouts：也被称为Formatters，它负责对日志事件中的数据进行转换和格式化，它决定了日志记录的最终显示形式。 Level：日志输出级别，Logger 和 Handeler 都有一个 Level 级别，如两者出现冲突时，以级别高的等级为准。 Filters：过滤器，可以自主过滤掉不需要的日志信息，可以在 Logger 和 Handeler 上分别设置。</description>
       <category>JavaWeb</category>
-      <pubDate>Fri, 22 Sep 2023 12:13:58 GMT</pubDate>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h4> 一、JUL框架介绍</h4>
 <p>JUL 全称 : Java util logging ，Java原生的日志框架，主要用于小型项目，使用方便。</p>
 <p>作用：可以按照不同的层次分级去显示信息，将程序运行中的信息更加规范化的输出。</p>
@@ -148,7 +148,7 @@
       <source url="https://wuiyan.github.io/rss.xml">maven常用依赖</source>
       <description>记录一些常用的maven依赖坐标 1、mybatis 框架 &amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.mybatis&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;mybatis&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.5.13&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt;</description>
       <category>JavaWeb</category>
-      <pubDate>Fri, 22 Sep 2023 12:13:58 GMT</pubDate>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>记录一些常用的maven依赖坐标</p>
 <h5> 1、mybatis 框架</h5>
 <div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h5> 2、mysql 连接驱动</h5>
@@ -166,7 +166,7 @@
       <source url="https://wuiyan.github.io/rss.xml">Junit单元测试</source>
       <description>需要先导入Junit依赖才可以使用。 @TEST 注解 Junit最重要的一个注解，在方法上添加上@Test注解后，就可以单独执行这个方法，可以方便的进行测试。 注意事项： 此方法应该是public类型 此方法的返回值应为 void 此方法没有参数 此方法不是静态方法 @Before 注解 使用此注解标记的方法，会在测试方法前执行，且默认每个测试方法执行前都会执行一次此方法。 @After 注解</description>
       <category>JavaWeb</category>
-      <pubDate>Fri, 22 Sep 2023 12:13:58 GMT</pubDate>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>需要先导入Junit依赖才可以使用。</p>
 <h5> @TEST 注解</h5>
 <p>Junit最重要的一个注解，在方法上添加上@Test注解后，就可以单独执行这个方法，可以方便的进行测试。</p>
@@ -487,7 +487,7 @@
       <source url="https://wuiyan.github.io/rss.xml">SSM框架使用教程</source>
       <description>SSM框架使用教程 通过注解配置spring框架 1、添加spring的坐标依赖 &amp;lt;!--spring 框架依赖--&amp;gt; &amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.springframework&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;spring-context&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;5.3.19&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt;</description>
       <category>SSM框架</category>
-      <pubDate>Fri, 22 Sep 2023 12:13:58 GMT</pubDate>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2> SSM框架使用教程</h2>
 <h3> 通过注解配置spring框架</h3>
 <h5> 1、添加spring的坐标依赖</h5>
@@ -562,7 +562,7 @@
       <source url="https://wuiyan.github.io/rss.xml">Servlet 体系结构概述</source>
       <description>Servlet 体系结构概述 1、servlet 的概念： servlet 是用于处理请求并动态生成响应内容返回给客户端的一种接口规范，只是定义了接口，并没有去实现，有些类似于JDBC的样子，它也有许多不同的实现类。 2、体系结构 顶级接口：Servelt 接口	ServeltConfig 接口 继承自 Servelt 的接口和实现类： 顶级父接口：Servlet。 次级实现类或接口：GenericServlet 实现类、ServletRequest 接口、ServletResponse 接口。 Http请求处理：HttpServlet 实现类、HttpServletRequest 接口、HttpServletResponse 接口</description>
       <category>JavaWeb</category>
-      <pubDate>Fri, 22 Sep 2023 12:13:58 GMT</pubDate>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Servlet 体系结构概述</h3>
 <h5> 1、servlet 的概念：</h5>
 <p>servlet 是用于处理请求并动态生成响应内容返回给客户端的一种接口规范，只是定义了接口，并没有去实现，有些类似于JDBC的样子，它也有许多不同的实现类。</p>
@@ -592,7 +592,7 @@
       <source url="https://wuiyan.github.io/rss.xml">关于Java中注解的使用</source>
       <description>一、注解的概述 注解(Annotation)，也叫元数据，是一种代码级别的说明，可以在程序中设定标记，这些标记可以用于检查代码、生成文档、使用反射等。 简单来说,注解是一种将meta标记(meta-tag)与程序元素关联的机制,允许编译器(compiler)或JVM从有注解的元素提取程序行为,必要时生成相互依赖的代码。 注解可以在包、类、方法、字段、局部变量、方法参数等几乎所有的东西前面声明，声明方法是 ‘@注解名’ 。后面还可添加参数。 1.1、注解的种类 注解分为两种，一种是预设注解，由Java原生提供的注解类型，另一种是元注解，用来定义注解的注解，常常用来自定义其他注解</description>
       <category>JavaSE</category>
-      <pubDate>Fri, 22 Sep 2023 12:13:58 GMT</pubDate>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h4> 一、注解的概述</h4>
 <p>注解(Annotation)，也叫元数据，是一种代码级别的说明，可以在程序中设定标记，这些标记可以用于检查代码、生成文档、使用反射等。</p>
 <p>简单来说,注解是一种将meta标记(meta-tag)与程序元素关联的机制,允许编译器(compiler)或JVM从有注解的元素提取程序行为,必要时生成相互依赖的代码。</p>
@@ -650,7 +650,7 @@
       <source url="https://wuiyan.github.io/rss.xml">在GitHub的个人博客站点上修改域名为个人域名</source>
       <description>环境信息： 博客搭建模板：VuePress 搭建站点：GitHub 操作流程： 准备好个人域名 在个人域名配置管理页面添加CNAME 记录，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用**裸域(example.com)**指向目标地址，不建议使用CNAME 记录进行指向，请使用 ALIAS 记录或其他记录。 Untitled 在GitHub的网站部署仓库中，打开Settings，找到Pages选项，在Custom domain 中按照在域名管理系统中的指向设置自定义域名即可。 Untitled Untitled</description>
       <category>博客搭建</category>
-      <pubDate>Fri, 22 Sep 2023 12:13:58 GMT</pubDate>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3> 环境信息：</h3>
 <p>博客搭建模板：VuePress</p>
 <p>搭建站点：GitHub</p>
@@ -680,7 +680,7 @@
       <source url="https://wuiyan.github.io/rss.xml">基于Hexo框架+GitHub的个人博客搭建</source>
       <description>一、准备工作 1、注册GitHub账号 GitHub官网：https://github.com/ 邮箱：163邮箱可以，QQ邮箱不确定，可自行测试。 可使用QQ邮箱。 注册完成后需要注意几点：1、记住用户名，2、记住密码，3、记住注册邮箱。 作用：用于为博客的远程部署提供域名和静态网页访问功能等。 2、安装node.js</description>
       <category>博客搭建</category>
-      <pubDate>Fri, 22 Sep 2023 12:13:58 GMT</pubDate>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3> 一、准备工作</h3>
 <h5> 1、注册GitHub账号</h5>
 <p>GitHub官网：<a href="https://github.com/" target="_blank" rel="noopener noreferrer">https://github.com/</a></p>
