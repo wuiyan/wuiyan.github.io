@@ -1,6 +1,6 @@
 ---
 title: MySQL数据库学习笔记
-date: 2023-3-15 22:54:45
+date: 2023-03-15 22:54:45
 categories:
 	- JavaWeb
 tags:

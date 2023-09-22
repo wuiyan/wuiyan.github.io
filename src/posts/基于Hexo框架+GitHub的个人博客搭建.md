@@ -1,6 +1,6 @@
 ---
 title: 基于Hexo框架+GitHub的个人博客搭建
-date: 2023-3-14 
+date: 2023-03-14 
 categories:
 	- 博客搭建
 tags:

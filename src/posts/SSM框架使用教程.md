@@ -1,6 +1,6 @@
 ---
 title: SSM框架使用教程
-date: 2023-6-15
+date: 2023-06-15
 categories:
 
 	- SSM框架

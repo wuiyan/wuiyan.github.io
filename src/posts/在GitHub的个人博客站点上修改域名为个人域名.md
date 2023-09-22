@@ -1,6 +1,6 @@
 ---
 title: 在GitHub的个人博客站点上修改域名为个人域名
-date: 2023-9-21
+date: 2023-09-21
 categories:
 	- 博客搭建
 tags:

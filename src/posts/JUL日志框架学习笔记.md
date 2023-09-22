@@ -1,6 +1,6 @@
 ---
 title: JUL日志框架
-date: 2023-4-5
+date: 2023-04-15
 categories:
 	- JavaWeb
 tags:

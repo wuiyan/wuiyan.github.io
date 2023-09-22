@@ -1,6 +1,6 @@
 ---
 title: LomBok-小辣椒插件学习笔记
-date: 2023-3-16 22:54:45
+date: 2023-03-16 22:54:45
 categories:
 	- JavaWeb
 tags:
