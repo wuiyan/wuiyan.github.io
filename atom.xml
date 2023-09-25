@@ -4,7 +4,7 @@
   <title>WUYAN的博客</title>
   <subtitle>众里寻他千百度，蓦然回首，那人却在灯火阑珊处</subtitle>
   <rights>Copyright © 2022-present WUYAN</rights>
-  <updated>2023-09-23T01:46:21.612Z</updated>
+  <updated>2023-09-25T10:24:23.694Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://wuiyan.github.io/atom.xml"/>
   <link rel="alternate" href="https://wuiyan.github.io/"/>
@@ -18,7 +18,7 @@
     <title type="text">如何使用GithubAction自动部署VuePress到GithubPages</title>
     <id>https://wuiyan.github.io/posts/2023-08-18-03.html</id>
     <link href="https://wuiyan.github.io/posts/2023-08-18-03.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h1> 如何使用GithubAction自动部署VuePress到GithubPages</h1>
 <div class="hint-container info">
 <p class="hint-container-title">提示</p>
@@ -68,7 +68,7 @@
     <title type="text">防火墙常用命令</title>
     <id>https://wuiyan.github.io/posts/Centos7%E9%98%B2%E7%81%AB%E5%A2%99%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.html</id>
     <link href="https://wuiyan.github.io/posts/Centos7%E9%98%B2%E7%81%AB%E5%A2%99%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h5> 启动|关闭|重启防火墙</h5>
 <div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>systemctl status firewalld.service
 <span class="token comment"># 查看防火墙状态</span>
@@ -91,7 +91,7 @@ systemctl stop firewalld.service
     <title type="text">JUL日志框架</title>
     <id>https://wuiyan.github.io/posts/JUL%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</id>
     <link href="https://wuiyan.github.io/posts/JUL%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h4> 一、JUL框架介绍</h4>
 <p>JUL 全称 : Java util logging ，Java原生的日志框架，主要用于小型项目，使用方便。</p>
 <p>作用：可以按照不同的层次分级去显示信息，将程序运行中的信息更加规范化的输出。</p>
@@ -168,7 +168,7 @@ systemctl stop firewalld.service
     <title type="text">maven常用依赖</title>
     <id>https://wuiyan.github.io/posts/Java%E7%9A%84maven%E5%B8%B8%E7%94%A8%E4%BE%9D%E8%B5%96.html</id>
     <link href="https://wuiyan.github.io/posts/Java%E7%9A%84maven%E5%B8%B8%E7%94%A8%E4%BE%9D%E8%B5%96.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<p>记录一些常用的maven依赖坐标</p>
 <h5> 1、mybatis 框架</h5>
 <div class="language-xml line-numbers-mode" data-ext="xml"><pre class="language-xml"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>dependency</span><span class="token punctuation">&gt;</span></span>
@@ -193,7 +193,7 @@ systemctl stop firewalld.service
     <title type="text">Junit单元测试</title>
     <id>https://wuiyan.github.io/posts/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</id>
     <link href="https://wuiyan.github.io/posts/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<p>需要先导入Junit依赖才可以使用。</p>
 <h5> @TEST 注解</h5>
 <p>Junit最重要的一个注解，在方法上添加上@Test注解后，就可以单独执行这个方法，可以方便的进行测试。</p>
@@ -232,7 +232,7 @@ systemctl stop firewalld.service
     <title type="text">LomBok-小辣椒插件学习笔记</title>
     <id>https://wuiyan.github.io/posts/LomBok-%E5%B0%8F%E8%BE%A3%E6%A4%92%E6%8F%92%E4%BB%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</id>
     <link href="https://wuiyan.github.io/posts/LomBok-%E5%B0%8F%E8%BE%A3%E6%A4%92%E6%8F%92%E4%BB%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h4> 一、LomBok插件概述</h4>
 <p>LomBok插件是一款插件化注解API，可以在Java程序编译时根据注解为程序添加一些必需的通用代码，如常用的Getter、Setter、有参和无参构造方法等。</p>
 <p>使用这款插件可以在很大程度上简化程序员所需要书写的代码量，但也有可能会带来一些意想不到的小问题，使程序的可读性变差。</p>
@@ -344,7 +344,7 @@ systemctl stop firewalld.service
     <title type="text">MySQL数据库学习笔记</title>
     <id>https://wuiyan.github.io/posts/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</id>
     <link href="https://wuiyan.github.io/posts/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h4> 一、数据库简介</h4>
 <p>MySQL数据库是一款关系型数据库管理系统，主要用于中小规模的数据的存储和处理，是现在相当流行的一款数据库类型。</p>
 <p>关系型数据库是采用了关系模型来组织数据的数据库，实体之间的关系有一对一、一对多、多对多三种。</p>
@@ -540,7 +540,7 @@ systemctl stop firewalld.service
     <title type="text">SSM框架使用教程</title>
     <id>https://wuiyan.github.io/posts/SSM%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html</id>
     <link href="https://wuiyan.github.io/posts/SSM%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h2> SSM框架使用教程</h2>
 <h3> 通过注解配置spring框架</h3>
 <h5> 1、添加spring的坐标依赖</h5>
@@ -624,7 +624,7 @@ systemctl stop firewalld.service
     <title type="text">Servlet 体系结构概述</title>
     <id>https://wuiyan.github.io/posts/Servlet%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.html</id>
     <link href="https://wuiyan.github.io/posts/Servlet%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h3> Servlet 体系结构概述</h3>
 <h5> 1、servlet 的概念：</h5>
 <p>servlet 是用于处理请求并动态生成响应内容返回给客户端的一种接口规范，只是定义了接口，并没有去实现，有些类似于JDBC的样子，它也有许多不同的实现类。</p>
@@ -666,10 +666,31 @@ systemctl stop firewalld.service
     <published>2023-04-18T00:00:00.000Z</published>
   </entry>
   <entry>
+    <title type="text">VuePress上传笔记注意事项</title>
+    <id>https://wuiyan.github.io/posts/VuePress%E4%B8%8A%E4%BC%A0%E7%AC%94%E8%AE%B0%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.html</id>
+    <link href="https://wuiyan.github.io/posts/VuePress%E4%B8%8A%E4%BC%A0%E7%AC%94%E8%AE%B0%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.html"/>
+    <updated>2023-09-25T10:22:52.000Z</updated>
+    <summary type="html"><![CDATA[<h3> VuePress 上传笔记注意事项</h3>
+<p>Markdown文档内附有图片时，应注意：</p>
+<ol>
+<li>路径中可以出现中文，但图片名称中不能存在空格</li>
+<li>图片的后缀名要和文档中保持一致，否则会无法访问到图片，并且图片后缀名要小写，否则编译时会出现问题。</li>
+</ol>
+]]></summary>
+    <content type="html"><![CDATA[<h3> VuePress 上传笔记注意事项</h3>
+<p>Markdown文档内附有图片时，应注意：</p>
+<ol>
+<li>路径中可以出现中文，但图片名称中不能存在空格</li>
+<li>图片的后缀名要和文档中保持一致，否则会无法访问到图片，并且图片后缀名要小写，否则编译时会出现问题。</li>
+</ol>
+]]></content>
+    <published>2023-09-25T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">个人域名完整配置流程</title>
     <id>https://wuiyan.github.io/posts/%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.html</id>
     <link href="https://wuiyan.github.io/posts/%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h4> 1. 域名的购买</h4>
 <ul>
 <li>
@@ -751,7 +772,7 @@ systemctl stop firewalld.service
     <title type="text">关于Java中注解的使用</title>
     <id>https://wuiyan.github.io/posts/%E5%85%B3%E4%BA%8EJava%E4%B8%AD%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%BD%BF%E7%94%A8.html</id>
     <link href="https://wuiyan.github.io/posts/%E5%85%B3%E4%BA%8EJava%E4%B8%AD%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%BD%BF%E7%94%A8.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h4> 一、注解的概述</h4>
 <p>注解(Annotation)，也叫元数据，是一种代码级别的说明，可以在程序中设定标记，这些标记可以用于检查代码、生成文档、使用反射等。</p>
 <p>简单来说,注解是一种将meta标记(meta-tag)与程序元素关联的机制,允许编译器(compiler)或JVM从有注解的元素提取程序行为,必要时生成相互依赖的代码。</p>
@@ -814,7 +835,7 @@ systemctl stop firewalld.service
     <title type="text">在GitHub的个人博客站点上修改域名为个人域名</title>
     <id>https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D.html</id>
     <link href="https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h3> 环境信息：</h3>
 <p>博客搭建模板：VuePress</p>
 <p>搭建站点：GitHub</p>
@@ -861,7 +882,7 @@ systemctl stop firewalld.service
     <title type="text">基于Hexo框架+GitHub的个人博客搭建</title>
     <id>https://wuiyan.github.io/posts/%E5%9F%BA%E4%BA%8EHexo%E6%A1%86%E6%9E%B6_GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.html</id>
     <link href="https://wuiyan.github.io/posts/%E5%9F%BA%E4%BA%8EHexo%E6%A1%86%E6%9E%B6_GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.html"/>
-    <updated>2023-09-23T01:44:21.000Z</updated>
+    <updated>2023-09-25T10:22:52.000Z</updated>
     <summary type="html"><![CDATA[<h3> 一、准备工作</h3>
 <h5> 1、注册GitHub账号</h5>
 <p>GitHub官网：<a href="https://github.com/" target="_blank" rel="noopener noreferrer">https://github.com/</a></p>

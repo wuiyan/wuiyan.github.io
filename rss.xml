@@ -6,8 +6,8 @@
     <link>https://wuiyan.github.io/</link>
     <description>众里寻他千百度，蓦然回首，那人却在灯火阑珊处</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Sep 2023 01:46:21 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Sep 2023 01:46:21 GMT</lastBuildDate>
+    <pubDate>Mon, 25 Sep 2023 10:24:23 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2023 10:24:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2022-present WUYAN</copyright>
@@ -584,6 +584,21 @@
 <p>一般处理请求比较常用的是带Http请求的类，对于Http相关的请求支持和方法都比较全面，推荐使用。</p>
 ]]></content:encoded>
       <enclosure url="https://wuiyan.github.io/assets/images/Servlet/1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>VuePress上传笔记注意事项</title>
+      <link>https://wuiyan.github.io/posts/VuePress%E4%B8%8A%E4%BC%A0%E7%AC%94%E8%AE%B0%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.html</link>
+      <guid>https://wuiyan.github.io/posts/VuePress%E4%B8%8A%E4%BC%A0%E7%AC%94%E8%AE%B0%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">VuePress上传笔记注意事项</source>
+      <description>VuePress 上传笔记注意事项 Markdown文档内附有图片时，应注意： 路径中可以出现中文，但图片名称中不能存在空格 图片的后缀名要和文档中保持一致，否则会无法访问到图片，并且图片后缀名要小写，否则编译时会出现问题。</description>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> VuePress 上传笔记注意事项</h3>
+<p>Markdown文档内附有图片时，应注意：</p>
+<ol>
+<li>路径中可以出现中文，但图片名称中不能存在空格</li>
+<li>图片的后缀名要和文档中保持一致，否则会无法访问到图片，并且图片后缀名要小写，否则编译时会出现问题。</li>
+</ol>
+]]></content:encoded>
     </item>
     <item>
       <title>个人域名完整配置流程</title>
