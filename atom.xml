@@ -4,7 +4,7 @@
   <title>WUYAN的博客</title>
   <subtitle>众里寻他千百度，蓦然回首，那人却在灯火阑珊处</subtitle>
   <rights>Copyright © 2022-present WUYAN</rights>
-  <updated>2023-10-11T07:47:31.669Z</updated>
+  <updated>2023-10-11T12:50:47.848Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://wuiyan.github.io/atom.xml"/>
   <link rel="alternate" href="https://wuiyan.github.io/"/>
@@ -18,7 +18,7 @@
     <title type="text">如何使用GithubAction自动部署VuePress到GithubPages</title>
     <id>https://wuiyan.github.io/posts/2023-08-18-03.html</id>
     <link href="https://wuiyan.github.io/posts/2023-08-18-03.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h1> 如何使用GithubAction自动部署VuePress到GithubPages</h1>
 <div class="hint-container info">
 <p class="hint-container-title">提示</p>
@@ -68,7 +68,7 @@
     <title type="text">防火墙常用命令</title>
     <id>https://wuiyan.github.io/posts/Centos7%E9%98%B2%E7%81%AB%E5%A2%99%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.html</id>
     <link href="https://wuiyan.github.io/posts/Centos7%E9%98%B2%E7%81%AB%E5%A2%99%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h5> 启动|关闭|重启防火墙</h5>
 <div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>systemctl status firewalld.service
 <span class="token comment"># 查看防火墙状态</span>
@@ -91,7 +91,7 @@ systemctl stop firewalld.service
     <title type="text">JUL日志框架</title>
     <id>https://wuiyan.github.io/posts/JUL%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</id>
     <link href="https://wuiyan.github.io/posts/JUL%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h4> 一、JUL框架介绍</h4>
 <p>JUL 全称 : Java util logging ，Java原生的日志框架，主要用于小型项目，使用方便。</p>
 <p>作用：可以按照不同的层次分级去显示信息，将程序运行中的信息更加规范化的输出。</p>
@@ -168,7 +168,7 @@ systemctl stop firewalld.service
     <title type="text">maven常用依赖</title>
     <id>https://wuiyan.github.io/posts/Java%E7%9A%84maven%E5%B8%B8%E7%94%A8%E4%BE%9D%E8%B5%96.html</id>
     <link href="https://wuiyan.github.io/posts/Java%E7%9A%84maven%E5%B8%B8%E7%94%A8%E4%BE%9D%E8%B5%96.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<p>记录一些常用的maven依赖坐标</p>
 <h5> 1、mybatis 框架</h5>
 <div class="language-xml line-numbers-mode" data-ext="xml"><pre class="language-xml"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>dependency</span><span class="token punctuation">&gt;</span></span>
@@ -193,7 +193,7 @@ systemctl stop firewalld.service
     <title type="text">Junit单元测试</title>
     <id>https://wuiyan.github.io/posts/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</id>
     <link href="https://wuiyan.github.io/posts/Junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<p>需要先导入Junit依赖才可以使用。</p>
 <h5> @TEST 注解</h5>
 <p>Junit最重要的一个注解，在方法上添加上@Test注解后，就可以单独执行这个方法，可以方便的进行测试。</p>
@@ -232,7 +232,7 @@ systemctl stop firewalld.service
     <title type="text">LomBok-小辣椒插件学习笔记</title>
     <id>https://wuiyan.github.io/posts/LomBok-%E5%B0%8F%E8%BE%A3%E6%A4%92%E6%8F%92%E4%BB%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</id>
     <link href="https://wuiyan.github.io/posts/LomBok-%E5%B0%8F%E8%BE%A3%E6%A4%92%E6%8F%92%E4%BB%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h4> 一、LomBok插件概述</h4>
 <p>LomBok插件是一款插件化注解API，可以在Java程序编译时根据注解为程序添加一些必需的通用代码，如常用的Getter、Setter、有参和无参构造方法等。</p>
 <p>使用这款插件可以在很大程度上简化程序员所需要书写的代码量，但也有可能会带来一些意想不到的小问题，使程序的可读性变差。</p>
@@ -344,7 +344,7 @@ systemctl stop firewalld.service
     <title type="text">MySQL数据库学习笔记</title>
     <id>https://wuiyan.github.io/posts/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</id>
     <link href="https://wuiyan.github.io/posts/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h4> 一、数据库简介</h4>
 <p>MySQL数据库是一款关系型数据库管理系统，主要用于中小规模的数据的存储和处理，是现在相当流行的一款数据库类型。</p>
 <p>关系型数据库是采用了关系模型来组织数据的数据库，实体之间的关系有一对一、一对多、多对多三种。</p>
@@ -540,7 +540,7 @@ systemctl stop firewalld.service
     <title type="text">SSM框架使用教程</title>
     <id>https://wuiyan.github.io/posts/SSM%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html</id>
     <link href="https://wuiyan.github.io/posts/SSM%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h2> SSM框架使用教程</h2>
 <h3> 通过注解配置spring框架</h3>
 <h5> 1、添加spring的坐标依赖</h5>
@@ -624,7 +624,7 @@ systemctl stop firewalld.service
     <title type="text">Servlet 体系结构概述</title>
     <id>https://wuiyan.github.io/posts/Servlet%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.html</id>
     <link href="https://wuiyan.github.io/posts/Servlet%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h3> Servlet 体系结构概述</h3>
 <h5> 1、servlet 的概念：</h5>
 <p>servlet 是用于处理请求并动态生成响应内容返回给客户端的一种接口规范，只是定义了接口，并没有去实现，有些类似于JDBC的样子，它也有许多不同的实现类。</p>
@@ -669,7 +669,7 @@ systemctl stop firewalld.service
     <title type="text">VuePress上传笔记注意事项</title>
     <id>https://wuiyan.github.io/posts/VuePress%E4%B8%8A%E4%BC%A0%E7%AC%94%E8%AE%B0%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.html</id>
     <link href="https://wuiyan.github.io/posts/VuePress%E4%B8%8A%E4%BC%A0%E7%AC%94%E8%AE%B0%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h3> VuePress 上传笔记注意事项</h3>
 <p>Markdown文档内附有图片时，应注意：</p>
 <ol>
@@ -690,7 +690,7 @@ systemctl stop firewalld.service
     <title type="text">md文档转移到VuePress博客工具</title>
     <id>https://wuiyan.github.io/posts/md%E6%96%87%E6%A1%A3%E8%BD%AC%E7%A7%BB%E5%88%B0VuePress%E5%8D%9A%E5%AE%A2%E5%B7%A5%E5%85%B7.html</id>
     <link href="https://wuiyan.github.io/posts/md%E6%96%87%E6%A1%A3%E8%BD%AC%E7%A7%BB%E5%88%B0VuePress%E5%8D%9A%E5%AE%A2%E5%B7%A5%E5%85%B7.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h1> md文档转移到VuePress博客工具</h1>
 <p><strong>工具名称:</strong> Markdown图片链接格式转换器</p>
 <p><strong>个人博客框架:</strong> VuePress</p>
@@ -717,78 +717,69 @@ systemctl stop firewalld.service
     <title type="text">个人域名完整配置流程</title>
     <id>https://wuiyan.github.io/posts/%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.html</id>
     <link href="https://wuiyan.github.io/posts/%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
-    <summary type="html"><![CDATA[<h4> 1. 域名的购买</h4>
+    <updated>2023-10-11T12:42:21.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 个人域名完整配置流程</h1>
+<h2> 域名完整配置流程</h2>
+<h3> 1. 域名的购买</h3>
 <ul>
-<li>
-<h5> 域名购买方式</h5>
-</li>
+<li>域名购买方式</li>
 </ul>
-<p>​	 <a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Buy a domain name -Namecheap</a> ：国外域名购买网站，购买手续简单，域名全面，国内支付比较麻烦，只支持PayPal、卡支付、虚拟货币支付。</p>
-<p>​	 <a href="https://wanwang.aliyun.com/domain" target="_blank" rel="noopener noreferrer">域名注册_阿里云 (aliyun.com)</a> ：国内域名购买网站，购买时需完成备案，部分域名无法注册，一次购买多年域名使用权较为便宜，国内支付方便。</p>]]></summary>
-    <content type="html"><![CDATA[<h4> 1. 域名的购买</h4>
+<p><a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Buy a domain name -Namecheap</a> ：国外域名购买网站，购买手续简单，域名全面，国内支付比较麻烦，只支持PayPal、卡支付、虚拟货币支付。</p>
+<p><a href="https://wanwang.aliyun.com/domain" target="_blank" rel="noopener noreferrer">域名注册_阿里云 (aliyun.com)</a> ：国内域名购买网站，购买时需完成备案，部分域名无法注册，一次购买多年域名使用权较为便宜，国内支付方便。</p>]]></summary>
+    <content type="html"><![CDATA[<h1> 个人域名完整配置流程</h1>
+<h2> 域名完整配置流程</h2>
+<h3> 1. 域名的购买</h3>
 <ul>
-<li>
-<h5> 域名购买方式</h5>
-</li>
+<li>域名购买方式</li>
 </ul>
-<p>​	 <a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Buy a domain name -Namecheap</a> ：国外域名购买网站，购买手续简单，域名全面，国内支付比较麻烦，只支持PayPal、卡支付、虚拟货币支付。</p>
-<p>​	 <a href="https://wanwang.aliyun.com/domain" target="_blank" rel="noopener noreferrer">域名注册_阿里云 (aliyun.com)</a> ：国内域名购买网站，购买时需完成备案，部分域名无法注册，一次购买多年域名使用权较为便宜，国内支付方便。</p>
-<h5> Namecheap购买域名</h5>
+<p><a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Buy a domain name -Namecheap</a> ：国外域名购买网站，购买手续简单，域名全面，国内支付比较麻烦，只支持PayPal、卡支付、虚拟货币支付。</p>
+<p><a href="https://wanwang.aliyun.com/domain" target="_blank" rel="noopener noreferrer">域名注册_阿里云 (aliyun.com)</a> ：国内域名购买网站，购买时需完成备案，部分域名无法注册，一次购买多年域名使用权较为便宜，国内支付方便。</p>
+<h3> Namecheap购买域名</h3>
 <ol>
 <li><strong>使用邮箱，注册namecheap账号</strong>，注册后可享受域名购买优惠，建议注册后操作。</li>
 <li>在namecheap主页进行搜索自己想要的域名名称，在域名展示的部分可以查看域名的每年的租金价格以及续约的金额，一般第一年会便宜一些，可以在右上角将金额设置为自己习惯的单位，支持美元、人民币等。</li>
 <li>按照自己的需要找到自己想要的域名并选择好所需的时间，就可以将其<strong>添加到购物车</strong>中，进行提交订单操作。</li>
 <li>初次使用会让你填写本人的详细信息，视个人情况填写即可，只要<strong>格式符合</strong>对内容没有要求，只要确保邮箱地址正确即可，之后选择支付方式，我这里使用的是<strong>PayPal进行支付</strong>，登录自己的PayPal账号，选择PayPal支付，之后选择付款方式，确认即可完成购买。</li>
 </ol>
-<h5> 阿里云购买域名</h5>
+<h3> 阿里云购买域名</h3>
 <p>参考教程：<a href="https://help.aliyun.com/document_detail/456480.html?spm=5176.22414175.sslink.3.3f9e2468C9C2JP" target="_blank" rel="noopener noreferrer">如何在品牌商城中完成域名购买_企业商城LinkedMall-阿里云帮助中心 (aliyun.com)</a></p>
-<h4> 2.域名的配置</h4>
-<h5> namecheap中域名的配置</h5>
+<h3> 2.域名的配置</h3>
+<h3> namecheap中域名的配置</h3>
 <ol>
 <li>
 <p>在个人主页中进入控制台页面，<strong>选中Domain List</strong> ，进入域名列表，可以查看刚购买域名的基本信息。</p>
 </li>
 <li>
 <p>点击管理按钮进入域名的管理页面，在Domain页面是当前域名的信息展示，如：域名的状态、有效时间、NameServers、Redirect Domain等。</p>
+<figure><img src="/assets/images/个人域名完整配置流程/Untitled.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
 </li>
-</ol>
-<figure><img src="/assets/images/domain/1.png" alt="png1" tabindex="0" loading="lazy"><figcaption>png1</figcaption></figure>
-<ol start="3">
 <li>
 <p><strong>Redirect Domain</strong> : 域名重定向，可将目标域名重定向指定指定域名，在新旧域名切换时用到。</p>
 </li>
 <li>
-<p><strong>NameServers</strong> ：用以设置 DNS 解析服务器，有 Namecheap BasicDNS 和 Custom DNS 两种，<strong>默认是Namecheap BasicDNS</strong>，使用的是 Namecheap 本身的DNS解析服务，可以在 Advanced DNS 中设置域名的映射方式。Custom DNS使用的是自定义的 DNS 解析服务器。</p>
+<p><strong>NameServers</strong> ：用以设置 DNS 解析服务器，有 Namecheap BasicDNS 和 Custom DNS 两种，<strong>默认是Namecheap BasicDNS</strong>，使用的是 Namecheap 本身的DNS解析服务，可以在 Advanced DNS 中设置域名的映射方式。Custom DNS使用的是自定义的 DNS 解析服务器。<strong>配置流程：</strong></p>
 <p><strong>Namecheap BasicDNS配置</strong>：进入 Advanced DNS 页面，在 HOST RECORDS 中选择自己需要的记录类型进行添加记录操作。</p>
 <p>主机记录类型解释：</p>
 <ol>
-<li>
-<p><strong>A record (IPv4) ：允许域名和IPv4的地址相关联</strong></p>
-</li>
-<li>
-<p><strong>AAAA record (IPv6)  ： 允许域名指向IPv6的地址</strong></p>
-</li>
-<li>
-<p><strong>ALIAS record 别名记录 ： 用于将一个域名指向另一个域名，可与该名称上的其他记录共存</strong></p>
-</li>
-<li>
-<p><strong>CNAME record 别名记录：用于将当前域名指向目标域名的IP地址</strong></p>
-</li>
+<li><strong>A record (IPv4) ：允许域名和IPv4的地址相关联</strong></li>
+<li><strong>AAAA record (IPv6) ： 允许域名指向IPv6的地址</strong></li>
+<li><strong>ALIAS record 别名记录 ： 用于将一个域名指向另一个域名，可与该名称上的其他记录共存</strong></li>
+<li><strong>CNAME record 别名记录：用于将当前域名指向目标域名的IP地址</strong></li>
 </ol>
-</li>
-</ol>
-<figure><img src="/assets/images/domain/2.png" alt="png2" tabindex="0" loading="lazy"><figcaption>png2</figcaption></figure>
-
+<p>![Untitled](/assets/images/个人域名完整配置流程/Untitled 1.png)</p>
+<p><strong>Custom DNS 自定义DNS解析服务器</strong> 选择的是国内的 DNSPod 解析服务，基础版免费。</p>
+<p>DNS配置地址：<a href="https://console.dnspod.cn/" target="_blank" rel="noopener noreferrer">DNSPod - 域名管理</a></p>
 <ol>
 <li>注册或登录腾讯云的DNPOD网站，按照个人信息完成实名认证后即可进行配置。</li>
 <li>在我的域名中开始添加域名，让其自动检测后会自动生成许多条DNS解析记录，选择自己需要的记录添加即可。</li>
 <li>此时可以看到页面提示DNS服务器未验证，复制DNSPOD提供的两个DNS服务器地址（注意DNSPOD提供的服务器地址默认是带复制快捷按钮的）</li>
 <li>打开namecheap，进入域名管理修改DNS解析服务器类型为 Custom DNS，将解析服务器地址分别粘贴后，保存提交，等待缓存刷新即可。</li>
 </ol>
-<h5> PayPal 用户注册</h5>
+</li>
+</ol>
+<h3> PayPal 用户注册</h3>
 <p><strong>注册地址：</strong><a href="https://www.paypal.com/c2/welcome/signup/#/country_selection" target="_blank" rel="noopener noreferrer">注册个人账户 | PayPal</a></p>
-<p>**步骤：**按照个人情况进行实际填写，依据提示依次执行即可。</p>
+<p><strong>步骤：</strong> 按照个人情况进行实际填写，依据提示依次执行即可。</p>
 <p>关联银行卡时，国内选择银联即可，主流银行卡基本都支持，如：工商银行、农业银行、建设银行、中国银行等。</p>
 <p>注：PayPal没有支付密码的概念，要保管好自己的登录密码，也可以开启PayPal的双重认证来提高安全性。</p>
 ]]></content>
@@ -799,7 +790,7 @@ systemctl stop firewalld.service
     <title type="text">关于Java中注解的使用</title>
     <id>https://wuiyan.github.io/posts/%E5%85%B3%E4%BA%8EJava%E4%B8%AD%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%BD%BF%E7%94%A8.html</id>
     <link href="https://wuiyan.github.io/posts/%E5%85%B3%E4%BA%8EJava%E4%B8%AD%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%BD%BF%E7%94%A8.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h4> 一、注解的概述</h4>
 <p>注解(Annotation)，也叫元数据，是一种代码级别的说明，可以在程序中设定标记，这些标记可以用于检查代码、生成文档、使用反射等。</p>
 <p>简单来说,注解是一种将meta标记(meta-tag)与程序元素关联的机制,允许编译器(compiler)或JVM从有注解的元素提取程序行为,必要时生成相互依赖的代码。</p>
@@ -862,8 +853,9 @@ systemctl stop firewalld.service
     <title type="text">在GitHub的个人博客站点上修改域名为个人域名</title>
     <id>https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D.html</id>
     <link href="https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
-    <summary type="html"><![CDATA[<h3> 环境信息：</h3>
+    <updated>2023-10-11T12:42:21.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 在GitHub的个人博客站点上修改域名为个人域名</h1>
+<h3> 环境信息：</h3>
 <p>博客搭建模板：VuePress</p>
 <p>搭建站点：GitHub</p>
 <h3> 操作流程：</h3>
@@ -872,17 +864,18 @@ systemctl stop firewalld.service
 <p>准备好个人域名</p>
 </li>
 <li>
-<p>在个人域名配置管理页面添加<strong>CNAME 记录</strong>，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用**裸域(<a href="http://example.com" target="_blank" rel="noopener noreferrer">example.com</a>)**指向目标地址，不建议使用CNAME 记录进行指向，请使用 <strong>ALIAS 记录或其他记录</strong>。</p>
+<p>在个人域名配置管理页面添加<strong>CNAME 记录</strong>，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用 <strong>裸域(<a href="http://example.com" target="_blank" rel="noopener noreferrer">example.com</a>)</strong> 指向目标地址，不建议使用CNAME 记录进行指向，请使用 <strong>ALIAS 记录或其他记录</strong>。</p>
 <figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
 </li>
 <li>
 <p>在GitHub的网站部署仓库中，打开Settings，找到Pages选项，在Custom domain 中按照在域名管理系统中的指向设置自定义域名即可。</p>
-<figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled1.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
+<p>![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled 1.png)</p>
 <hr>
-<figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled2.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
+<p>![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled 2.png)</p>
 </li>
 </ol>]]></summary>
-    <content type="html"><![CDATA[<h3> 环境信息：</h3>
+    <content type="html"><![CDATA[<h1> 在GitHub的个人博客站点上修改域名为个人域名</h1>
+<h3> 环境信息：</h3>
 <p>博客搭建模板：VuePress</p>
 <p>搭建站点：GitHub</p>
 <h3> 操作流程：</h3>
@@ -891,25 +884,24 @@ systemctl stop firewalld.service
 <p>准备好个人域名</p>
 </li>
 <li>
-<p>在个人域名配置管理页面添加<strong>CNAME 记录</strong>，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用**裸域(<a href="http://example.com" target="_blank" rel="noopener noreferrer">example.com</a>)**指向目标地址，不建议使用CNAME 记录进行指向，请使用 <strong>ALIAS 记录或其他记录</strong>。</p>
+<p>在个人域名配置管理页面添加<strong>CNAME 记录</strong>，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用 <strong>裸域(<a href="http://example.com" target="_blank" rel="noopener noreferrer">example.com</a>)</strong> 指向目标地址，不建议使用CNAME 记录进行指向，请使用 <strong>ALIAS 记录或其他记录</strong>。</p>
 <figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
 </li>
 <li>
 <p>在GitHub的网站部署仓库中，打开Settings，找到Pages选项，在Custom domain 中按照在域名管理系统中的指向设置自定义域名即可。</p>
-<figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled1.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
+<p>![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled 1.png)</p>
 <hr>
-<figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled2.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
+<p>![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled 2.png)</p>
 </li>
 </ol>
 ]]></content>
-    <category term="博客搭建"/>
-    <published>2023-09-21T00:00:00.000Z</published>
+    <published>2023-10-11T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">基于Hexo框架+GitHub的个人博客搭建</title>
     <id>https://wuiyan.github.io/posts/%E5%9F%BA%E4%BA%8EHexo%E6%A1%86%E6%9E%B6_GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.html</id>
     <link href="https://wuiyan.github.io/posts/%E5%9F%BA%E4%BA%8EHexo%E6%A1%86%E6%9E%B6_GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.html"/>
-    <updated>2023-10-11T07:45:54.000Z</updated>
+    <updated>2023-10-11T12:42:21.000Z</updated>
     <summary type="html"><![CDATA[<h3> 一、准备工作</h3>
 <h5> 1、注册GitHub账号</h5>
 <p>GitHub官网：<a href="https://github.com/" target="_blank" rel="noopener noreferrer">https://github.com/</a></p>
