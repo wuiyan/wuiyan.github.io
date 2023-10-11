@@ -8,8 +8,7 @@ date: 2023-10-04
 
 # md文档转移到VuePress博客工具
 
-**工具名称:** Markdown图片链接格式转换器
-
+**工具名称**：Markdown图片链接格式转换器
 **个人博客框架:** VuePress
 
 **工具作用：**
@@ -21,6 +20,13 @@ config.ini文件：用于设置保存的路径信息。
 
 注：个人自制小工具，基本无安全性检查。
 
-**蓝奏云链接**：[https://wwfj.lanzoul.com/i8vvu19lhhta](https://wwfj.lanzoul.com/i8vvu19lhhta)
+**蓝奏云链接**：[https://wwfj.lanzoul.com/i9PFr1biahcf](https://wwfj.lanzoul.com/i9PFr1biahcf)
+
+**Github地址**：https://github.com/wuiyan/NotionToVuePress
+
+**更新记录：**
+
+1. 解决 notion 链接图片使用URL编码本地无法识别的问题
+2. 解决notion多个图片时，导出的图片名称会存在空格的情况
 
 

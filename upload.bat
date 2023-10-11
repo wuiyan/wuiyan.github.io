@@ -29,5 +29,5 @@ if %errorlevel% == 0  (echo "文件上传至远程仓库成功！") else (
     echo "文件上传失败，请检查是否已与远程仓库进行关联或者网络连接是否正常！"
     goto END
     )
-
+pause
 :END
