@@ -6,8 +6,8 @@
     <link>https://wuiyan.github.io/</link>
     <description>众里寻他千百度，蓦然回首，那人却在灯火阑珊处</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Oct 2023 12:55:02 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Oct 2023 12:55:02 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Oct 2023 14:11:04 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Oct 2023 14:11:04 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2022-present WUYAN</copyright>
@@ -621,6 +621,73 @@
     </item>
     <item>
       <title>个人域名完整配置流程</title>
+      <link>https://wuiyan.github.io/posts/%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B%20e0f447c358084ab4b20dd9037356fcd8.html</link>
+      <guid>https://wuiyan.github.io/posts/%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B%20e0f447c358084ab4b20dd9037356fcd8.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">个人域名完整配置流程</source>
+      <description>个人域名完整配置流程 域名完整配置流程 1. 域名的购买 域名购买方式 Buy a domain name -Namecheap ：国外域名购买网站，购买手续简单，域名全面，国内支付比较麻烦，只支持PayPal、卡支付、虚拟货币支付。 域名注册_阿里云 (aliyun.com) ：国内域名购买网站，购买时需完成备案，部分域名无法注册，一次购买多年域名使用权较为便宜，国内支付方便。</description>
+      <category>博客搭建</category>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 个人域名完整配置流程</h1>
+<h2> 域名完整配置流程</h2>
+<h3> 1. 域名的购买</h3>
+<ul>
+<li>域名购买方式</li>
+</ul>
+<p><a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Buy a domain name -Namecheap</a> ：国外域名购买网站，购买手续简单，域名全面，国内支付比较麻烦，只支持PayPal、卡支付、虚拟货币支付。</p>
+<p><a href="https://wanwang.aliyun.com/domain" target="_blank" rel="noopener noreferrer">域名注册_阿里云 (aliyun.com)</a> ：国内域名购买网站，购买时需完成备案，部分域名无法注册，一次购买多年域名使用权较为便宜，国内支付方便。</p>
+<h3> Namecheap购买域名</h3>
+<ol>
+<li><strong>使用邮箱，注册namecheap账号</strong>，注册后可享受域名购买优惠，建议注册后操作。</li>
+<li>在namecheap主页进行搜索自己想要的域名名称，在域名展示的部分可以查看域名的每年的租金价格以及续约的金额，一般第一年会便宜一些，可以在右上角将金额设置为自己习惯的单位，支持美元、人民币等。</li>
+<li>按照自己的需要找到自己想要的域名并选择好所需的时间，就可以将其<strong>添加到购物车</strong>中，进行提交订单操作。</li>
+<li>初次使用会让你填写本人的详细信息，视个人情况填写即可，只要<strong>格式符合</strong>对内容没有要求，只要确保邮箱地址正确即可，之后选择支付方式，我这里使用的是<strong>PayPal进行支付</strong>，登录自己的PayPal账号，选择PayPal支付，之后选择付款方式，确认即可完成购买。</li>
+</ol>
+<h3> 阿里云购买域名</h3>
+<p>参考教程：<a href="https://help.aliyun.com/document_detail/456480.html?spm=5176.22414175.sslink.3.3f9e2468C9C2JP" target="_blank" rel="noopener noreferrer">如何在品牌商城中完成域名购买_企业商城LinkedMall-阿里云帮助中心 (aliyun.com)</a></p>
+<h3> 2.域名的配置</h3>
+<h3> namecheap中域名的配置</h3>
+<ol>
+<li>
+<p>在个人主页中进入控制台页面，<strong>选中Domain List</strong> ，进入域名列表，可以查看刚购买域名的基本信息。</p>
+</li>
+<li>
+<p>点击管理按钮进入域名的管理页面，在Domain页面是当前域名的信息展示，如：域名的状态、有效时间、NameServers、Redirect Domain等。</p>
+<p>![Untitled](/assets/images/个人域名完整配置流程 e0f447c358084ab4b20dd9037356fcd8/1.png)</p>
+</li>
+<li>
+<p><strong>Redirect Domain</strong> : 域名重定向，可将目标域名重定向指定指定域名，在新旧域名切换时用到。</p>
+</li>
+<li>
+<p><strong>NameServers</strong> ：用以设置 DNS 解析服务器，有 Namecheap BasicDNS 和 Custom DNS 两种，<strong>默认是Namecheap BasicDNS</strong>，使用的是 Namecheap 本身的DNS解析服务，可以在 Advanced DNS 中设置域名的映射方式。Custom DNS使用的是自定义的 DNS 解析服务器。<strong>配置流程：</strong></p>
+<p><strong>Namecheap BasicDNS配置</strong>：进入 Advanced DNS 页面，在 HOST RECORDS 中选择自己需要的记录类型进行添加记录操作。</p>
+<p>主机记录类型解释：</p>
+<ol>
+<li><strong>A record (IPv4) ：允许域名和IPv4的地址相关联</strong></li>
+<li><strong>AAAA record (IPv6) ： 允许域名指向IPv6的地址</strong></li>
+<li><strong>ALIAS record 别名记录 ： 用于将一个域名指向另一个域名，可与该名称上的其他记录共存</strong></li>
+<li><strong>CNAME record 别名记录：用于将当前域名指向目标域名的IP地址</strong></li>
+</ol>
+<p>![Untitled](/assets/images/个人域名完整配置流程 e0f447c358084ab4b20dd9037356fcd8/2.png)</p>
+<p><strong>Custom DNS 自定义DNS解析服务器</strong> 选择的是国内的 DNSPod 解析服务，基础版免费。</p>
+<p>DNS配置地址：<a href="https://console.dnspod.cn/" target="_blank" rel="noopener noreferrer">DNSPod - 域名管理</a></p>
+<ol>
+<li>注册或登录腾讯云的DNPOD网站，按照个人信息完成实名认证后即可进行配置。</li>
+<li>在我的域名中开始添加域名，让其自动检测后会自动生成许多条DNS解析记录，选择自己需要的记录添加即可。</li>
+<li>此时可以看到页面提示DNS服务器未验证，复制DNSPOD提供的两个DNS服务器地址（注意DNSPOD提供的服务器地址默认是带复制快捷按钮的）</li>
+<li>打开namecheap，进入域名管理修改DNS解析服务器类型为 Custom DNS，将解析服务器地址分别粘贴后，保存提交，等待缓存刷新即可。</li>
+</ol>
+</li>
+</ol>
+<h3> PayPal 用户注册</h3>
+<p><strong>注册地址：</strong><a href="https://www.paypal.com/c2/welcome/signup/#/country_selection" target="_blank" rel="noopener noreferrer">注册个人账户 | PayPal</a></p>
+<p><strong>步骤：</strong> 按照个人情况进行实际填写，依据提示依次执行即可。</p>
+<p>关联银行卡时，国内选择银联即可，主流银行卡基本都支持，如：工商银行、农业银行、建设银行、中国银行等。</p>
+<p>注：PayPal没有支付密码的概念，要保管好自己的登录密码，也可以开启PayPal的双重认证来提高安全性。</p>
+]]></content:encoded>
+      <enclosure url="https://wuiyan.github.io/assets/images/个人域名完整配置流程 e0f447c358084ab4b20dd9037356fcd8/1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>个人域名完整配置流程</title>
       <link>https://wuiyan.github.io/posts/%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.html</link>
       <guid>https://wuiyan.github.io/posts/%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.html</guid>
       <source url="https://wuiyan.github.io/rss.xml">个人域名完整配置流程</source>
@@ -652,7 +719,7 @@
 </li>
 <li>
 <p>点击管理按钮进入域名的管理页面，在Domain页面是当前域名的信息展示，如：域名的状态、有效时间、NameServers、Redirect Domain等。</p>
-<figure><img src="/assets/images/个人域名完整配置流程/Untitled.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
+<figure><img src="/assets/images/个人域名完整配置流程/1.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
 </li>
 <li>
 <p><strong>Redirect Domain</strong> : 域名重定向，可将目标域名重定向指定指定域名，在新旧域名切换时用到。</p>
@@ -667,7 +734,7 @@
 <li><strong>ALIAS record 别名记录 ： 用于将一个域名指向另一个域名，可与该名称上的其他记录共存</strong></li>
 <li><strong>CNAME record 别名记录：用于将当前域名指向目标域名的IP地址</strong></li>
 </ol>
-<p>![Untitled](/assets/images/个人域名完整配置流程/Untitled 1.png)</p>
+<figure><img src="/assets/images/个人域名完整配置流程/2.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
 <p><strong>Custom DNS 自定义DNS解析服务器</strong> 选择的是国内的 DNSPod 解析服务，基础版免费。</p>
 <p>DNS配置地址：<a href="https://console.dnspod.cn/" target="_blank" rel="noopener noreferrer">DNSPod - 域名管理</a></p>
 <ol>
@@ -684,7 +751,7 @@
 <p>关联银行卡时，国内选择银联即可，主流银行卡基本都支持，如：工商银行、农业银行、建设银行、中国银行等。</p>
 <p>注：PayPal没有支付密码的概念，要保管好自己的登录密码，也可以开启PayPal的双重认证来提高安全性。</p>
 ]]></content:encoded>
-      <enclosure url="https://wuiyan.github.io/assets/images/个人域名完整配置流程/Untitled.png" type="image/png"/>
+      <enclosure url="https://wuiyan.github.io/assets/images/个人域名完整配置流程/1.png" type="image/png"/>
     </item>
     <item>
       <title>关于Java中注解的使用</title>
@@ -745,11 +812,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>在GitHub的个人博客站点上修改域名为个人域名</title>
-      <link>https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D.html</link>
-      <guid>https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D.html</guid>
-      <source url="https://wuiyan.github.io/rss.xml">在GitHub的个人博客站点上修改域名为个人域名</source>
-      <description>在GitHub的个人博客站点上修改域名为个人域名 环境信息： 博客搭建模板：VuePress 搭建站点：GitHub 操作流程： 准备好个人域名 在个人域名配置管理页面添加CNAME 记录，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用 裸域(example.com) 指向目标地址，不建议使用CNAME 记录进行指向，请使用 ALIAS 记录或其他记录。 Untitled 在GitHub的网站部署仓库中，打开Settings，找到Pages选项，在Custom domain 中按照在域名管理系统中的指向设置自定义域名即可。 ![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled 1.png) ![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled 2.png)</description>
+      <title>在GitHub的个人博客站点上修改域名为个人域名 e88c523e4b31437e98a9efc3a1326d00</title>
+      <link>https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%20e88c523e4b31437e98a9efc3a1326d00.html</link>
+      <guid>https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%20e88c523e4b31437e98a9efc3a1326d00.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">在GitHub的个人博客站点上修改域名为个人域名 e88c523e4b31437e98a9efc3a1326d00</source>
+      <description>在GitHub的个人博客站点上修改域名为个人域名 环境信息： 博客搭建模板：VuePress 搭建站点：GitHub 操作流程： 准备好个人域名 在个人域名配置管理页面添加CNAME 记录，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用 裸域(example.com) 指向目标地址，不建议使用CNAME 记录进行指向，请使用 ALIAS 记录或其他记录。 ![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名 e88c523e4b31437e98a9efc3a1326d00/1.png) 在GitHub的网站部署仓库中，打开Settings，找到Pages选项，在Custom domain 中按照在域名管理系统中的指向设置自定义域名即可。 ![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名 e88c523e4b31437e98a9efc3a1326d00/2.png) ![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名 e88c523e4b31437e98a9efc3a1326d00/3.png)</description>
       <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 在GitHub的个人博客站点上修改域名为个人域名</h1>
 <h3> 环境信息：</h3>
@@ -762,17 +829,47 @@
 </li>
 <li>
 <p>在个人域名配置管理页面添加<strong>CNAME 记录</strong>，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用 <strong>裸域(<a href="http://example.com" target="_blank" rel="noopener noreferrer">example.com</a>)</strong> 指向目标地址，不建议使用CNAME 记录进行指向，请使用 <strong>ALIAS 记录或其他记录</strong>。</p>
-<figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
+<p>![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名 e88c523e4b31437e98a9efc3a1326d00/1.png)</p>
 </li>
 <li>
 <p>在GitHub的网站部署仓库中，打开Settings，找到Pages选项，在Custom domain 中按照在域名管理系统中的指向设置自定义域名即可。</p>
-<p>![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled 1.png)</p>
+<p>![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名 e88c523e4b31437e98a9efc3a1326d00/2.png)</p>
 <hr>
-<p>![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled 2.png)</p>
+<p>![Untitled](/assets/images/在GitHub的个人博客站点上修改域名为个人域名 e88c523e4b31437e98a9efc3a1326d00/3.png)</p>
 </li>
 </ol>
 ]]></content:encoded>
-      <enclosure url="https://wuiyan.github.io/assets/images/在GitHub的个人博客站点上修改域名为个人域名/Untitled.png" type="image/png"/>
+      <enclosure url="https://wuiyan.github.io/assets/images/在GitHub的个人博客站点上修改域名为个人域名 e88c523e4b31437e98a9efc3a1326d00/1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>在GitHub的个人博客站点上修改域名为个人域名</title>
+      <link>https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D.html</link>
+      <guid>https://wuiyan.github.io/posts/%E5%9C%A8GitHub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AB%99%E7%82%B9%E4%B8%8A%E4%BF%AE%E6%94%B9%E5%9F%9F%E5%90%8D%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D.html</guid>
+      <source url="https://wuiyan.github.io/rss.xml">在GitHub的个人博客站点上修改域名为个人域名</source>
+      <description>在GitHub的个人博客站点上修改域名为个人域名 环境信息： 博客搭建模板：VuePress 搭建站点：GitHub 操作流程： 准备好个人域名 在个人域名配置管理页面添加CNAME 记录，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用 裸域(example.com) 指向目标地址，不建议使用CNAME 记录进行指向，请使用 ALIAS 记录或其他记录。 Untitled 在GitHub的网站部署仓库中，打开Settings，找到Pages选项，在Custom domain 中按照在域名管理系统中的指向设置自定义域名即可。 Untitled Untitled</description>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 在GitHub的个人博客站点上修改域名为个人域名</h1>
+<h3> 环境信息：</h3>
+<p>博客搭建模板：VuePress</p>
+<p>搭建站点：GitHub</p>
+<h3> 操作流程：</h3>
+<ol>
+<li>
+<p>准备好个人域名</p>
+</li>
+<li>
+<p>在个人域名配置管理页面添加<strong>CNAME 记录</strong>，使当前域名指向GitHub中的个人博客地址，注意此时是使用二级域名指向的目标地址，如果想使用 <strong>裸域(<a href="http://example.com" target="_blank" rel="noopener noreferrer">example.com</a>)</strong> 指向目标地址，不建议使用CNAME 记录进行指向，请使用 <strong>ALIAS 记录或其他记录</strong>。</p>
+<figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/1.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
+</li>
+<li>
+<p>在GitHub的网站部署仓库中，打开Settings，找到Pages选项，在Custom domain 中按照在域名管理系统中的指向设置自定义域名即可。</p>
+<figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/2.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
+<hr>
+<figure><img src="/assets/images/在GitHub的个人博客站点上修改域名为个人域名/3.png" alt="Untitled" tabindex="0" loading="lazy"><figcaption>Untitled</figcaption></figure>
+</li>
+</ol>
+]]></content:encoded>
+      <enclosure url="https://wuiyan.github.io/assets/images/在GitHub的个人博客站点上修改域名为个人域名/1.png" type="image/png"/>
     </item>
     <item>
       <title>基于Hexo框架+GitHub的个人博客搭建</title>
