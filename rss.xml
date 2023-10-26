@@ -6,8 +6,8 @@
     <link>https://wuiyan.github.io/</link>
     <description>众里寻他千百度，蓦然回首，那人却在灯火阑珊处</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Oct 2023 14:42:45 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Oct 2023 14:42:45 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Oct 2023 04:52:58 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2023 04:52:58 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2022-present WUYAN</copyright>
@@ -590,9 +590,16 @@
       <link>https://wuiyan.github.io/posts/VuePress%E4%B8%8A%E4%BC%A0%E7%AC%94%E8%AE%B0%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.html</link>
       <guid>https://wuiyan.github.io/posts/VuePress%E4%B8%8A%E4%BC%A0%E7%AC%94%E8%AE%B0%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.html</guid>
       <source url="https://wuiyan.github.io/rss.xml">VuePress上传笔记注意事项</source>
-      <description>VuePress 上传笔记注意事项 Markdown文档内附有图片时，应注意： 路径中可以出现中文，但图片名称中不能存在空格 图片的后缀名要和文档中保持一致，否则会无法访问到图片，并且图片后缀名要小写，否则编译时会出现问题。</description>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> VuePress 上传笔记注意事项</h3>
+      <description>VuePress 上传笔记注意事项 笔记上传时，展示文章标题的问题： 文章标题与文件名没有关系，与文章内的title属性和第一行的一号标题有关系。 如果只设定了title属性，标题就会是title属性所设置的值。 如果只设定了一号标题，乜有设置title属性，标题就会是一号标题的内容 如果两个都设定了，会显示title属性的内容，一号标题的内容会被忽略，且在文章内会被隐藏。 Markdown文档内附有图片时，应注意：</description>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> VuePress 上传笔记注意事项</h1>
+<p>笔记上传时，展示文章标题的问题：</p>
+<p>文章标题与文件名没有关系，与文章内的<strong>title属性</strong>和第一行的<strong>一号标题</strong>有关系。</p>
+<ol>
+<li>如果只设定了title属性，标题就会是title属性所设置的值。</li>
+<li>如果只设定了一号标题，乜有设置title属性，标题就会是一号标题的内容</li>
+<li>如果两个都设定了，会显示title属性的内容，一号标题的内容会被忽略，且在文章内会被隐藏。</li>
+</ol>
 <p>Markdown文档内附有图片时，应注意：</p>
 <ol>
 <li>路径中可以出现中文，但图片名称中不能存在空格</li>
