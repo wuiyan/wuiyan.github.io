@@ -3,7 +3,7 @@
 For VuePress-Hope
 
 ## 简介
-[wuyan’sBlog](https://wuiyan.github.io/)
+
 技术栈基于 TypeScript+Vue3+Vite4+VuePress2
 
 使用 Algolia 实现全文检索
