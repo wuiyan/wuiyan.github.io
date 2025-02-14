@@ -351,3 +351,5 @@ public static void main(String[] args) {
 |   作用   | 指定当前类为配置类 | 在配置类中使用，指定当前方法返回的对象为Bean对象 | 将指定目录存在@Component注解的类注册为Bean对象 | 将指定目录的mapper接口类注册为Bean |
 |   类比   | 相当于xml配置文件  |            相当于xml中的\<bean\>标签             |                  相当于扫描器                  |            相当于扫描器            |
 
+
+
